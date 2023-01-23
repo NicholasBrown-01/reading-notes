@@ -19,12 +19,15 @@
 <p>
   
 ##### If a task is too complicated: Think about the larger goal, but then break it down into smaller manageable steps.
+  
 </p>
 </details>
 
 <details><summary>Reminder 3</summary>
 <p>
+  
 ##### When you fail: Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
+  
 </p>
 </details>
 
