@@ -1,4 +1,4 @@
-![New Growth](https://github.com/nicholasbrown.-01/reading-notes/background.jpg?raw=true)
+![New Growth](https://github.com/nicholasbrown-01/reading-notes/background.jpg?raw=true)
 
 # The Growth Mindset
 
