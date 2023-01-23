@@ -10,7 +10,7 @@
 <details><summary>When feeling behind:</summary>
 <p>
   
-##### Re-focus, breath, and know you can ask questions at the next break to catch up.
+Re-focus, breath, and know you can ask questions at the next break to catch up.
   
 </p>
 </details>
@@ -18,7 +18,7 @@
 <details><summary>If a task is too complicated:</summary>
 <p>
   
-##### Think about the larger goal, but then break it down into smaller manageable steps.
+Think about the larger goal, but then break it down into smaller manageable steps.
   
 </p>
 </details>
@@ -26,7 +26,7 @@
 <details><summary>When you fail:</summary>
 <p>
   
-##### Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
+Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
   
 </p>
 </details>
