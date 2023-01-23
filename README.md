@@ -1,6 +1,6 @@
-![New Growth](https://github.com/nicholasbrown-01/reading-notes/background.jpg)
+[backgound](https://user-images.githubusercontent.com/119603466/214134321-5593ec94-6e46-4f51-a353-c93d4e9a8a4e.jpg)
 
-# The Growth Mindset
+# The Growth Mindset!
 
 ## This concept allows you to fully engage in any learning environment by training your mind to remain in a place of positivity, willingness to reach out for assistance to avoid long and unnecceary pitfalls, and to encourage the process of learning itself to be welcoming rather than threatening.
 
