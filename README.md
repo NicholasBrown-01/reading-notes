@@ -5,8 +5,6 @@
 
 ## ***This concept allows you to fully engage in any learning environment by training your mind to remain in a place of positivity, willingness to reach out for assistance to avoid long and unnecceary pitfalls, and to encourage the process of learning itself to be welcoming rather than threatening.***
 
-#### 
-
 ### The following are 3 Helpful Reminders:
 
 <details><summary>Reminder 1</summary>
@@ -29,6 +27,10 @@
 ##### When you fail: Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
 </p>
 </details>
+
+>These reminders are such a benefit to remember!
+>
+>-Nick Brown
 
 ###### Please reach out and follow me at [GitHub](https://github.com/NicholasBrown-01)
 
