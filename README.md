@@ -7,26 +7,26 @@
 
 ### The following are 3 Helpful Reminders:
 
-<details><summary>Reminder 1</summary>
+<details><summary>When feeling behind:</summary>
 <p>
   
-##### When feeling behind: Re-focus, breath, and know you can ask questions at the next break to catch up.
+##### Re-focus, breath, and know you can ask questions at the next break to catch up.
   
 </p>
 </details>
 
-<details><summary>Reminder 2</summary>
+<details><summary>If a task is too complicated:</summary>
 <p>
   
-##### If a task is too complicated: Think about the larger goal, but then break it down into smaller manageable steps.
+##### Think about the larger goal, but then break it down into smaller manageable steps.
   
 </p>
 </details>
 
-<details><summary>Reminder 3</summary>
+<details><summary>When you fail:</summary>
 <p>
   
-##### When you fail: Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
+##### Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
   
 </p>
 </details>
