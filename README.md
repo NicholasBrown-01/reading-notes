@@ -1,4 +1,4 @@
-![New Growth](background.jpg "San Juan Mountains")
+![New Growth](background.jpg)
 
 # The Growth Mindset
 
