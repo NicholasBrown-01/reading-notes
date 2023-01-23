@@ -9,21 +9,25 @@
 
 <details><summary>Reminder 1</summary>
 <p>
-When feeling behind, re-focus: Breath, and know you can ask questions at the next break to catch up.
+  
+##### When feeling behind, re-focus: Breath, and know you can ask questions at the next break to catch up.
+  
 </p>
 </details>
 
 <details><summary>Reminder 2</summary>
 <p>
-If a task is too complicated: Think about the larger goal, but then break it down into smaller manageable steps.
+  
+##### If a task is too complicated: Think about the larger goal, but then break it down into smaller manageable steps.
 </p>
 </details>
 
 <details><summary>Reminder 3</summary>
 <p>
-When you fail: Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
+##### When you fail: Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
 </p>
 </details>
+
 ###### Please reach me at [https://github.com/NicholasBrown-01] should you need anything!
 
 
