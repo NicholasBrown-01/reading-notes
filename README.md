@@ -5,6 +5,8 @@
 
 ## ***This concept allows you to fully engage in any learning environment by training your mind to remain in a place of positivity, willingness to reach out for assistance to avoid long and unnecceary pitfalls, and to encourage the process of learning itself to be welcoming rather than threatening.***
 
+#### 
+
 ### The following are 3 Helpful Reminders:
 
 <details><summary>Reminder 1</summary>
@@ -28,6 +30,6 @@
 </p>
 </details>
 
-###### Please reach me at [GitHub](https://github.com/NicholasBrown-01) should you need anything!
+###### Please reach out and follow me at [GitHub](https://github.com/NicholasBrown-01)
 
 
