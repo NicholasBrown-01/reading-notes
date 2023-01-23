@@ -21,8 +21,9 @@
 <br>  
   
 ### Notes
+ <br>
   
- Begin writing here...
+Begin writing here...
   
 </details>
 
