@@ -5,6 +5,8 @@
 
 ## ***This concept allows you to fully engage in any learning environment by training your mind to remain in a place of positivity, willingness to reach out for assistance to avoid long and unnecceary pitfalls, and to encourage the process of learning itself to be welcoming rather than threatening.***
 
+### I'm Nick, and I'm happy to provide you with some friendly tips when it comes to applying this incredible learning style of yourself!
+
 ### The following are 3 Helpful Reminders:
 
 <details><summary>When feeling behind:</summary>
