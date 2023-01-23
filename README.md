@@ -1,4 +1,4 @@
-[backgound](https://user-images.githubusercontent.com/119603466/214134321-5593ec94-6e46-4f51-a353-c93d4e9a8a4e.jpg)
+[background image](https://user-images.githubusercontent.com/119603466/214134321-5593ec94-6e46-4f51-a353-c93d4e9a8a4e.jpg)
 
 # The Growth Mindset!
 
@@ -9,5 +9,7 @@
 ##### 1. When feeling behind, re-focus: Breath, and know you can ask questions at the next break to catch up.
 ##### 2. If a task is too complicated: Think about the larger goal, but then break it down into smaller manageable steps.
 ##### 3. When you fail: Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
+
+###### Please reach me at [https://github.com/NicholasBrown-01] should you need anything!
 
 
