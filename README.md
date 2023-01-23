@@ -28,6 +28,6 @@
 </p>
 </details>
 
-###### Please reach me at [https://github.com/NicholasBrown-01] should you need anything!
+###### Please reach me at [GitHub](https://github.com/NicholasBrown-01) should you need anything!
 
 
