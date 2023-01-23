@@ -10,7 +10,7 @@
 <details><summary>Reminder 1</summary>
 <p>
   
-##### When feeling behind, re-focus: Breath, and know you can ask questions at the next break to catch up.
+##### When feeling behind: Re-focus, breath, and know you can ask questions at the next break to catch up.
   
 </p>
 </details>
