@@ -19,10 +19,7 @@
 <details>
 <summary>Things I want to know more about</summary>
 <br>  
-  
-### Notes
- <br>
-  
+
 Begin writing here...
   
 </details>
