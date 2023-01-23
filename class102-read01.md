@@ -15,6 +15,7 @@
 
 #### With these capabilities, teams of people who are not skilled in HTML or CSS can now effectively create content while maintaining the bulk of their mental output on more import aspects of their tasks. Becoming proficient in Markdown and GitHub pages means streamlining your communication and workflow pipelines, allowing you to *knock out* task after task.
 
+## Notes
 
 <details>
 <summary>Things I want to know more about</summary>
