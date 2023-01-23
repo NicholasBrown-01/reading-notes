@@ -3,7 +3,7 @@
 ![backgound](https://user-images.githubusercontent.com/119603466/214134959-30be898b-afd6-49e5-aef1-40ab73f3f0a4.jpg)
 
 
-## This concept allows you to fully engage in any learning environment by training your mind to remain in a place of positivity, willingness to reach out for assistance to avoid long and unnecceary pitfalls, and to encourage the process of learning itself to be welcoming rather than threatening.
+## ***This concept allows you to fully engage in any learning environment by training your mind to remain in a place of positivity, willingness to reach out for assistance to avoid long and unnecceary pitfalls, and to encourage the process of learning itself to be welcoming rather than threatening.***
 
 ### The following are 3 Helpful Reminders:
 
