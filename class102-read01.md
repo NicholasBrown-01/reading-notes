@@ -1,5 +1,5 @@
 
-#### *This topic is important as it is building a common and applicable understanding of the Markdown syntax in which we will be able to accommplish increasingly complex tasks.*
+#### *This topic is important as it is building a common and applicable understanding of the Markdown syntax in which we will be able to accomplish increasingly complex tasks.*
 
 
 # What is Markdown?
