@@ -1,7 +1,5 @@
 # What is Markdown?
 
-## Let's Dive in
-
 #### Simply put, "Markdown" is a "Markup" (haha) language that allows those who are not comfortable writing content in core languages such as *HTML* or *CSS* to still be able to make it efficient and somewhat stylish. 
 
 
@@ -13,4 +11,12 @@
 
 #### With these capabilities, teams of people who are not skilled in HTML or CSS can now effectively create content while maintaining the bulk of their mental output on more import aspects of their tasks. Becoming proficient in Markdown and GitHub pages means streamlining your communication and workflow pipelines, allowing you to *knock out* task after task.
 
-# WIN WIN WIN
+
+<details><Things I want to know more about>
+  
+  # Notes
+  
+  Testing
+  
+  </details>
+
