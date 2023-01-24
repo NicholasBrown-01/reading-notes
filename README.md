@@ -51,20 +51,19 @@
 
 [Reading Notes: 08](201/201_Reading_08.md)
 
+[Reading Notes: 09](201/201_Reading_09.md)
 
-Reading Notes: 09
+[Reading Notes: 10](201/201_Reading_10.md)
 
-Reading Notes: 10
+[Reading Notes: 11](201/201_Reading_11.md)
 
-Reading Notes: 11
+[Reading Notes: 12](201/201_Reading_12.md)
 
-Reading Notes: 12
+[Reading Notes: 13](201/201_Reading_13.md)
 
-Reading Notes: 13
+[Reading Notes: 14](201/201_Reading_14.md)
 
-Reading Notes: 14
-
-Reading Notes: 15
+[Reading Notes: 15](201/201_Reading_15.md)
 </p>
 </details>
 
