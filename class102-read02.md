@@ -58,3 +58,14 @@ pr -n	        Denotes the file with Line Numbers
 *This list was provided/created by* (https://www.guru99.com/linux-commands-cheat-sheet.html)
 
 
+## Notes
+
+<details>
+<summary>Things I want to know more about</summary>
+<br>  
+
+Begin writing here...
+  
+</details>
+
+
