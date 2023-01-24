@@ -6,13 +6,17 @@
 
 ### Table of Contents:
 
+[Reading Notes 01](102/102_Reading_01.md)
+
+[Reading Notes 01](/102/102_Reading_01.md)
+
 <details><summary>Class 102:</summary>
 
-[Reading Notes 01](102/102Reading01.md)
+[Reading Notes 01](102/102_Reading_01.md)
 
-[Reading Notes 02](102Reading02.md)
+[Reading Notes 02](102_Reading_02.md)
 
-[Reading Notes 03](/102/102_Reading_03.md)
+[Reading Notes 03](102/102_Reading_03.md)
 
 [Reading Notes 04](102/102_Reading_04.md)
 
