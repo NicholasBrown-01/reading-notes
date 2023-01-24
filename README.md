@@ -12,10 +12,11 @@
 <p>
 <br>
 
-[Reading Notes 01](/102/102_Reading_01.md)
+[Reading Notes 01](/102_Reading_01.md)
+
 <br>
 
-[Reading Notes 02](/102/102_Reading_02.md)
+[Reading Notes 02](/102_Reading_02.md)
 <br>
 
 [Reading Notes 03](/102/102_Reading_03.md)
