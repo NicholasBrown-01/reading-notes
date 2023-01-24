@@ -2,12 +2,9 @@
 
 #### *-Please see the table of contents below and select a Class for reading notes specific to that section-*
 
+### Table of Contents
 
-
-### Table of Contents:
-
-
-#### Section 102:
+#### Section 102
 
 [Reading Notes 01](102/102_Reading_01.md)
 
@@ -25,8 +22,7 @@
 
 [Reading Notes 08](102/102_Reading_08.md)
 
-#### Section 201:
-
+#### Section 201
 
 [Reading Notes 01](201/201_Reading_01.md)
 
@@ -57,12 +53,5 @@
 [Reading Notes 14](201/201_Reading_14.md)
 
 [Reading Notes 15](201/201_Reading_15.md)
-</p>
-</details>
-
-
-
 
 ##### Reach out and/or follow @ [GitHub](https://github.com/NicholasBrown-01)
-
-
