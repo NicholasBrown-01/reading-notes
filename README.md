@@ -1,42 +1,76 @@
-# The Growth Mindset!
+# Reading Notes Main Directory
 
-![backgound](https://user-images.githubusercontent.com/119603466/214134959-30be898b-afd6-49e5-aef1-40ab73f3f0a4.jpg)
+#### *-Please see the table of contents below and select a Class for reading notes specific to that section-*
+<br>
+<br>
+
+### Table of Contents:
+<br>
 
 
-## ***This concept allows you to fully engage in any learning environment by training your mind to remain in a place of positivity, willingness to reach out for assistance to avoid long and unnecceary pitfalls, and to encourage the process of learning itself to be welcoming rather than threatening.***
-
-### I'm Nick, and I'm happy to provide you with some friendly tips when it comes to applying this incredible learning style for yourself!
-
-### The following are 3 Helpful Reminders:
-
-<details><summary>When feeling behind:</summary>
+<details><summary>Class 102:</summary>
 <p>
-  
-Re-focus, breath, and know you can ask questions at the next break to catch up.
-  
+<br>
+
+[Reading Notes: 01](102/102_Reading_01.md)
+
+[Reading Notes: 02](102/102_Reading_02.md)
+
+[Reading Notes: 03](102/102_Reading_03.md)
+
+[Reading Notes: 04](102/102_Reading_04.md)
+
+[Reading Notes: 05](102/102_Reading_05.md)
+
+[Reading Notes: 06](102/102_Reading_06.md)
+
+[Reading Notes: 07](102/102_Reading_07.md)
+
+[Reading Notes: 08](102/102_Reading_08.md)
+
 </p>
 </details>
 
-<details><summary>If a task is too complicated:</summary>
+<details><summary>Class 201:</summary>
 <p>
-  
-Think about the larger goal, but then break it down into smaller manageable steps.
-  
+<br>
+
+[Reading Notes: 01](201/201_Reading_01.md)
+
+[Reading Notes: 02](201/201_Reading_02.md)
+
+[Reading Notes: 03](201/201_Reading_03.md)
+
+[Reading Notes: 04](201/201_Reading_04.md)
+
+[Reading Notes: 05](201/201_Reading_05.md)
+
+[Reading Notes: 06](201/201_Reading_06.md)
+
+[Reading Notes: 07](201/201_Reading_07.md)
+
+[Reading Notes: 08](201/201_Reading_08.md)
+
+
+Reading Notes: 09
+
+Reading Notes: 10
+
+Reading Notes: 11
+
+Reading Notes: 12
+
+Reading Notes: 13
+
+Reading Notes: 14
+
+Reading Notes: 15
 </p>
 </details>
 
-<details><summary>When you fail:</summary>
-<p>
-  
-Remember everyone does. Learn what you can from your mistake, and simply try to improve upon it.
-  
-</p>
-</details>
+<br>
+<br>
 
->These reminders are such a benefit to remember!
->
->-Nick Brown
-
-###### Please reach out and follow me at [GitHub](https://github.com/NicholasBrown-01)
+##### Reach out and/or follow @ [GitHub](https://github.com/NicholasBrown-01)
 
 
