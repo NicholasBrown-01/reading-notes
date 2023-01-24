@@ -1,23 +1,17 @@
 # Reading Notes Main Directory
 
 #### *-Please see the table of contents below and select a Class for reading notes specific to that section-*
-<br>
-<br>
+
+
 
 ### Table of Contents:
-<br>
-
 
 <details><summary>Class 102:</summary>
 <p>
-<br>
 
 [Reading Notes 01](102/102Reading01.md)
 
-<br>
-
 [Reading Notes 02](102Reading02.md)
-<br>
 
 [Reading Notes 03](/102/102_Reading_03.md)
 
@@ -36,7 +30,6 @@
 
 <details><summary>Class 201:</summary>
 <p>
-<br>
 
 [Reading Notes 01](201/201_Reading_01.md)
 
@@ -70,8 +63,8 @@
 </p>
 </details>
 
-<br>
-<br>
+
+
 
 ##### Reach out and/or follow @ [GitHub](https://github.com/NicholasBrown-01)
 
