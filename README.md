@@ -12,7 +12,7 @@
 <p>
 <br>
 
-[Reading Notes: 01](102/102_Reading_01.md)
+[Reading Notes: 01](102_Reading_01.md)
 
 [Reading Notes: 02](102/102_Reading_02.md)
 
