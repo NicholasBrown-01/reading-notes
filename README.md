@@ -7,7 +7,6 @@
 ### Table of Contents:
 
 <details><summary>Class 102:</summary>
-<p>
 
 [Reading Notes 01](102/102Reading01.md)
 
@@ -25,7 +24,6 @@
 
 [Reading Notes 08](102/102_Reading_08.md)
 
-</p>
 </details>
 
 <details><summary>Class 201:</summary>
