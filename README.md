@@ -4,7 +4,7 @@
 
 ### Table of Contents
 
-#### Section 102
+### Course 102
 
 [Reading Notes 01](102/102_Reading_01.md)
 
@@ -22,7 +22,7 @@
 
 [Reading Notes 08](102/102_Reading_08.md)
 
-#### Section 201
+### Course 201
 
 [Reading Notes 01](201/201_Reading_01.md)
 
