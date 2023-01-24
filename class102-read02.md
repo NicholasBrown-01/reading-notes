@@ -2,11 +2,11 @@
 
 ## Say goodbye to GUI
 
-### While any typical Graphical User Interface (GUI) is the taught standard due to its visual simplicity and ability to *"follow along"*...proffessionals tend to utilize the Terminal with much more production and effienciency.
+### While any typical Graphical User Interface (GUI) is the taught standard due to its visual simplicity and ability to *"follow along"*...professionals tend to utilize the Terminal with much more production and efficiency.
 
 #### This is largely due to the fact that file paths, extensions, creation, moving can happen more quickly once a working knowledge and skill level is obtained.
 
-It is also entirely possible that a computer may only have a basic GUI and using a Terminal is an abolute must. Commands like CD,PWD,MV,MKDIR,TOUCH,NANO,RM -R/-I allow you to move your location in which you are physically working, move specific files, make files and folders, text note documents, and then remove and/or delete them...all with a few key strokes.
+It is also entirely possible that a computer may only have a basic GUI and using a Terminal is an absolute must. Commands like CD,PWD,MV,MKDIR,TOUCH,NANO,RM -R/-I allow you to move your location in which you are physically working, move specific files, make files and folders, text note documents, and then remove and/or delete them...all with a few keystrokes.
 
 ls	          Lists all files and directories in the present working directory
 
