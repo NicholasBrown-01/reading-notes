@@ -55,7 +55,7 @@ pr -h	        Assigns a header to the file
 
 pr -n	        Denotes the file with Line Numbers
 
-*This list was provided/created by* (https://www.guru99.com/linux-commands-cheat-sheet.html)
+*This list was provided/created by* [GURU99](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
 
 ## Notes
