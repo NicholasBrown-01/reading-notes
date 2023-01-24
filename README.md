@@ -6,15 +6,12 @@
 
 ### Table of Contents:
 
-[Reading Notes 01](102/102_Reading_01.md)
 
-[Reading Notes 01](/102/102_Reading_01.md)
-
-<details><summary>Class 102:</summary>
+#### Section 102:
 
 [Reading Notes 01](102/102_Reading_01.md)
 
-[Reading Notes 02](102_Reading_02.md)
+[Reading Notes 02](102/102_Reading_02.md)
 
 [Reading Notes 03](102/102_Reading_03.md)
 
@@ -28,10 +25,8 @@
 
 [Reading Notes 08](102/102_Reading_08.md)
 
-</details>
+#### Section 201:
 
-<details><summary>Class 201:</summary>
-<p>
 
 [Reading Notes 01](201/201_Reading_01.md)
 

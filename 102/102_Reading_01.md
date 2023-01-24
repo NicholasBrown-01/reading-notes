@@ -1,4 +1,4 @@
-### [BACK TO MAIN DIRECTORY](README.md)
+### [BACK TO MAIN DIRECTORY](../README.md)
 <br>
 <br>
 
