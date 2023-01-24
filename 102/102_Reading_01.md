@@ -1,3 +1,9 @@
+### [BACK TO MAIN DIRECTORY](/README.md)
+<br>
+<br>
+
+#### Reading Notes: 01
+<br>
 
 #### *This topic is important as it is building a common and applicable understanding of the Markdown syntax in which we will be able to accomplish increasingly complex tasks.*
 

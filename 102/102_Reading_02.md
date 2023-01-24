@@ -1,3 +1,10 @@
+### [BACK TO MAIN DIRECTORY](/README.md)
+<br>
+<br>
+
+#### Reading Notes: 02
+<br>
+
 # The Command Line
 
 ## Say goodbye to GUI
