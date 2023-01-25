@@ -4,7 +4,7 @@
 
 # All about GIT
 
-### GIT was developed to solve the problems of Local Version Control (LCS). It even further solved the single point of failure issue with Centralized Version Control System (CVCS)
+### GIT was developed to solve the problems of Local Version Control Systems (LVCS). It even further solved the single point of failure issue with Centralized Version Control System (CVCS)
 
 
 It has since soared above and beyond its competition as the absolute *go to* when any entity needs a reliable and distributed version control system.
