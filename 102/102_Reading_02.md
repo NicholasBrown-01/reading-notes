@@ -67,7 +67,6 @@ pr -n	        Denotes the file with Line Numbers
 
 <details>
 <summary>Things I want to know more about</summary>
-<br>  
 
 Begin writing here...
   
