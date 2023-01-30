@@ -1,10 +1,8 @@
-# Reading Notes Main Directory
+# Reading Notes
 
 #### *-Please see the table of contents below and select a Class for reading notes specific to that section-*
 
-### Table of Contents
-
-### Course 102
+## Course 102 Intro to Software Development
 
 [Reading Notes 01](102/102_Reading_01.md)
 
@@ -22,7 +20,7 @@
 
 [Reading Notes 08](102/102_Reading_08.md)
 
-### Course 201
+## Course 201 Foundations to Software Development
 
 [Reading Notes 01](201/201_Reading_01.md)
 
@@ -54,4 +52,8 @@
 
 [Reading Notes 15](201/201_Reading_15.md)
 
-##### Reach out and/or follow @ [GitHub](https://github.com/NicholasBrown-01)
+## Course 301 Intermediate Software Development
+
+## Course 401 Advanced Software Development
+
+< ##### Contact @ [GitHub](https://github.com/NicholasBrown-01)
