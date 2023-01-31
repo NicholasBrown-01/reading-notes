@@ -1,6 +1,6 @@
 # Reading Notes
 
-#### *-The following is a table of contents for quickly locating Code Fellows course reading material notes that summarize lessons as well as examples of materials covered in each setion-*
+#### *-The following is a table of contents for quickly locating Code Fellows course reading material notes that summarize lessons as well as examples of materials covered in each section-*
 
 ## Course 102 Intro to Software Development
 
