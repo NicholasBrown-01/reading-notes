@@ -56,4 +56,4 @@
 
 ## Course 401 Advanced Software Development
 
-< ##### Contact @ [GitHub](https://github.com/NicholasBrown-01)
+> Contact @ [GitHub](https://github.com/NicholasBrown-01)
