@@ -2,7 +2,7 @@
 
 <table><tr><td>The following is a table of contents for quickly locating Code Fellows course reading material notes that summarize lessons as well as examples of materials covered in each section</td></tr></table>
 
-## Course 102 Intro to Software Development
+## *Course 102 Intro to Software Development*
 
 - [Reading Notes 01](102/102_Reading_01.md)
 
@@ -20,7 +20,7 @@
 
 - [Reading Notes 08](102/102_Reading_08.md)
 
-## Course 201 Foundations to Software Development
+## *Course 201 Foundations to Software Development*
 
 - [Reading Notes 01](201/201_Reading_01.md)
 
@@ -52,9 +52,9 @@
 
 - [Reading Notes 15](201/201_Reading_15.md)
 
-## Course 301 Intermediate Software Development
+## *Course 301 Intermediate Software Development*
 
-## Course 401 Advanced Software Development
+## *Course 401 Advanced Software Development*
 
 > Nicholas Brown
 >> Contact @ [GitHub](https://github.com/NicholasBrown-01)
