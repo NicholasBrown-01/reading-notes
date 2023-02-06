@@ -12,7 +12,7 @@ An example of a function would be:
   // code to be executed
 }`
 
-...where we are creating the function, providing paramenters and names to be called or *invoked* at a later time.
+...where we are creating the function, providing parameters and names to be called or *invoked* at a later time.
 
 In order for function results and/or data to be stored, a `return` must be executed and placed where the user wants the function to stop processing.
 
