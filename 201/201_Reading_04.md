@@ -9,17 +9,14 @@
 
 1. To create a basic link, we wrap text or other content inside what element?
 <br>
-
 - `<a href="link info here">Title or Description of Link Here</a>`
 
 2. The href attribute contains what information?
 <br>
-
 - The Web Address
 
 3. What are some ways we can ensure links on our pages are accessible to all readers?
 <br>
-
  - Makes link descriptions clear to understand as if a speech program was reading the link information to it's audience. They should understand the place in which the link is sending them.
 
 ## CSS Layout
@@ -29,17 +26,14 @@
 
 1. What is meant by “normal flow”?
 <br>
-
 - Normal flow refers to the common operating procedure for CSS. It's default dynamic is to interpret the box model and block/inline elements
 
 2. What are a few differences between `block-level` and `inline elements`?
 <br>
-
 - Block elements fill all the available space on the entire line of the webpage while inline only fill to the edge of the content provided.
 
 3. ___ positioning is the default for every html element.
 <br>
-
 - `Static`
 
 4. Name a few advantages to using absolute positioning on an element.
