@@ -19,7 +19,7 @@
 
 3. What are some ways we can ensure links on our pages are accessible to all readers?
 <br>
- 
+
  - Makes link descriptions clear to understand as if a speech program was reading the link information to it's audience. They should understand the place in which the link is sending them.
 
 ## CSS Layout
