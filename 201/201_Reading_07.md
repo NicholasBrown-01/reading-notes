@@ -49,6 +49,9 @@ When working on a helicopter, many are created with the same basic stucture and 
 <details>
 <summary>Things I want to know more about</summary>
 
-Begin writing here...
+ ### Steps for creating a Table:
+
+
+
   
 </details>
