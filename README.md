@@ -50,6 +50,8 @@
 
 - [Reading Notes 14](201/201_Reading_14.md)
 
+- [Reading Notes 14 Psychological Safety](201/201_Reading_14_Psychological_Safety.md)
+
 - [Reading Notes 15](201/201_Reading_15.md)
 
 ## *Course 301 Intermediate Software Development*
