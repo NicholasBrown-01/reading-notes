@@ -56,6 +56,36 @@
 
 ## *Course 301 Intermediate Software Development*
 
+- [Reading Notes 01](301/301_Reading_01.md)
+
+- [Reading Notes 02](301/301_Reading_02.md)
+
+- [Reading Notes 03](301/301_Reading_03.md)
+
+- [Reading Notes 04](301/301_Reading_04.md)
+
+- [Reading Notes 05](301/301_Reading_05.md)
+
+- [Reading Notes 06](301/301_Reading_06.md)
+
+- [Reading Notes 07](301/301_Reading_07.md)
+
+- [Reading Notes 08](301/301_Reading_08.md)
+
+- [Reading Notes 09](301/301_Reading_09.md)
+
+- [Reading Notes 10](301/301_Reading_10.md)
+
+- [Reading Notes 11](301/301_Reading_11.md)
+
+- [Reading Notes 12](301/301_Reading_12.md)
+
+- [Reading Notes 13](301/301_Reading_13.md)
+
+- [Reading Notes 14](301/301_Reading_14.md)
+
+- [Reading Notes 15](301/301_Reading_15.md)
+
 ## *Course 401 Advanced Software Development*
 
 > Nicholas Brown
