@@ -40,7 +40,7 @@ The following is a table of contents for quickly locating Code Fellows course re
 | Reading Notes | Description |
 | --- | --- |
 | [Reading Notes 01](301/301_Reading_01.md) | Component Based Architecture |
-| [Reading Notes 02](301/301_Reading_02.md) | TBD |
+| [Reading Notes 02](301/301_Reading_02.md) | React: Lifecycle, Props, States |
 | [Reading Notes 03](301/301_Reading_03.md) | TBD |
 | [Reading Notes 04](301/301_Reading_04.md) | TBD |
 | [Reading Notes 05](301/301_Reading_05.md) | TBD |

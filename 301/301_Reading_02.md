@@ -3,92 +3,49 @@
 #### Reading Notes: 02
 <br>
 
-### HTML Text Fundamentals & HTML Advanced Text Formatting
+### React Lifecycle
 <br>
 
-1. Why is it important to use semantic elements in our HTML?
+1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 <br>
-- Semantics allow for not only the user, but the computer to understand general information about the data being written and what to do with it. It makes data/text easier to identify and more clearly understand what to do with the information.
+- The render happens first as Order of Operations is Top to Bottom.
 
-2. How many levels of headings are there in HTML?
+2. What is the very first thing to happen in the lifecycle of React?
 <br>
-- There are a total of 6 Heading Elements. 
+- of the 3 phases: Mounting, Updating, and Unmounting....Mounting occurs first.
 
-3. What are some uses for the `<sup>` and `<sub>` elements?
+3. Put the following things in the order that they happen:
 <br>
-- As far as superscript vs subscript, they can be useful for proper formatting of numbers, dates, formulas etc.
+- Constructor
+- Render
+- React Updates
+- componentDidMount
+- componentWillUnmount
 
-4. When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
-<br>
-- Abbreviation tags must have the title content within the tag.
-
-### Learn CSS
-<br>
-
-1. What are ways we can apply CSS to our HTML?
-<br>
-- We can call the external file via `<link rel="stylesheet" href="styles.css">` or via inline CSS Code such as: `<h4 style="color:white;">This is a heading</h4>`
-
-2. Why should we avoid using inline styles?
-<br>
-- They are more specific, thus if an external CSS is later added it can cause issues. It is also harder to visually organize what areas of the html are being affected and/or customized.
-
-3. Review the block of code below and answer the following questions:
+4. What does 'componentDidMount' do?
 <br>
 
- a. What is representing the selector?
-<br>
-- h2
+- It is used to initialize the DOM or load data via the netword request. It must also be unsubscribed via the 'componentWillUnmount()'
 
- b. Which components are the CSS declarations?
-<br>
-- black
-- 5px
-
- c. Which components are considered properties?
-<br>
-- color: black;
-- padding: 5px;
-
-### Learn JS
+### React State Vs Props
 <br>
 
-1. What data type is a sequence of text enclosed in single quote marks?
+1. What types of things can you pass in the props?
 <br>
-- String
+- Anything that would normally be an "arguement" in a function. What you want your component to render.
 
-2. List 4 types of JavaScript operators.
+2. What is the big difference between props and state?
 <br>
-- `+` Addition
-- `-` Subtraction
-- `=` Assignment
-- `!=` Does not equal/not
+- Props are arguements to a "function" and handled outside the component, while a state is handled inside the component.
 
-3. Describe a real world Problem you could solve with a Function.
+3. When do we re-render our application?
 <br>
-- Not letting someone hit "cancel" on a password prompt.
+- States can be updated within the component while props or functions must be rendered outside themselves.
 
-#### Making Decisions In Your Code – Conditionals.
-
-1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+4. What are some examples of things that we could store in state?
 <br>
-- condition
-- true
+- States can be changed/rendered based on user input such as a title/description/numbers/counters etc. This is especially usefull when utilizing forms. If no parent is used, a State is better suited than a prop.
 
-2. What is the use of an else if?
-<br>
-- to compliment the execution of the function/code further if not covered by the parameters of the previes `if` or `else if`.
-
-3. List 3 different types of comparison operators.
-<br>
-- `===` and `!==`
-- `<` and `>`
-- `>=` and `>=`
-
-4. What is the difference between the logical operator && and ||?
-<br>
-- `&&` translates to "and"
-- `||` translates to "or"
 
 
 
