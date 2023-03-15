@@ -5,81 +5,83 @@
 
 ### Learn HTML
 
-#### Ordered and Unordered lists
+#### React Docs - lists and keys
 <br>
 
-1. When should you use an unordered list in your HTML document?
+1. What does .map() return?
 <br>
-- When the information in the list does not benefit from any type of sorting, numbering, or order of any kind.
+- Whatever is in the assigned array.
 
-2. How do you change the bullet style of unordered list items?
+2. If I want to loop through an array and display each value in JSX, how do I do that in React?
 <br>
-- This is based on how the unordered list is nested.
+- Use your old array combined with the .map() method to then display each value into a html property syntax
 
-3. When should you use an ordered list vs an unorder list in your HTML document?
+3. Each list item needs a unique ____.
 <br>
-- If the information can be more clearly understood, read, or followed by having a defined number, order, sequence than an ordered list should be used. Otherwise unordered is acceptable.
+- key
 
-
-4. Describe two ways you can change the numbers on list items provided by an ordered list?
+4. What is the purpose of a key?
 <br>
-- You can change the style to roman numberal by specifying "i" in the `<ol type="i">` command. The starting number can also be changed, such as `<ol start="8">`.
+- They help identify things that have changed, been added or removed.
 
-### Learn CSS
-<br>
 
-#### The Box Model
-
-1. Describe the CSS properties of `margin` and `padding` as characters in a story. What is their role in a story titled: “The Box Model”?
-<br>
-- Once upon a time there were 2 sisters, Margin and Padding. They were very particular when it came to giving each other space. Margin only cared about how far apart they were from the edges of their shape. Padding only wanted to focus on how much room there was from their core box to the edge.
-
-2. List and describe the four parts of an HTML elements box as referred to by the box model.
+### The Spread Operator
 <br>
 
-The following information is provided by: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+1. What is the spread operator?
+<br>
+- It is JavaScript syntax used to manipulate and manage data in an array. 
 
-- Content box: The area where your content is displayed; size it using properties like `inline-siz`e and `block-size` or width and height.
+2. List 4 things that the spread operator can do.
+<br>
+- Combine arrays, Combine objects, adding items to an array, or spreading it out.
 
-- Padding box: The padding sits around the content as white space; size it using `padding` and related properties.
+3. Give an example of using the spread operator to combine two arrays.
+<br>
+*From https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab*
 
-- Border box: The border box wraps the content and any padding; size it using `border` and related properties.
+- const myArray = [`🤪`,`🐻`,`🎌`] <br>
+const yourArray = [`🙂`,`🤗`,`🤩`]<br>
+const ourArray = [...myArray,...yourArray]<br>
+console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩<br>
 
-- Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using `margin` and related properties.
+4. Give an example of using the spread operator to add a new item to an array.
+<br>
+*From https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab*
+- const fewFruit = ['🍏','🍊','🍌'] <br>
+const fewMoreFruit = ['🍉', '🍍', ...fewFruit]<br>
+console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]<br>
 
-### Learn JS
+5. Give an example of using the spread operator to combine two objects into one.
+<br>
+*From https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab*
 
-#### Arrays. Operators and Expressions. Conditionals. Loops.
+- const objectOne = {hello: "🤪"}<br>
+const objectTwo = {world: "🐻"}<br>
+const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}<br>
+console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }<br>
+const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}<br>
+objectFour.laugh() // 😂😂😂😂😂<br>
+
+### How to Pass Functions Between Components
 <br>
 
-1. What data types can you store inside of an Array?
+1. In the video, what is the first step that the developer does to pass functions between components?
 <br>
-- Anything... Strings, other arrays, numbers, and objects.
+- He places the function between the parent and the child.
 
-2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+2. In your own words, what does the increment function do?
 <br>
-- Yes. Use the command `console.log(people)` to access the information.
+- It increases the value of a variable by a specific amount.
+
+3. How can you pass a method from a parent component into a child component?
 <br>
+- 'increment={this.increment}'
 
-3. List five shorthand operators for assignment in javascript and describe what they do.
+4. How does the child component invoke a method that was passed to it from a parent component?
 <br>
+- You can make the increment a prop that is called Ex: 'this.props.increment()'
 
-- `x ||= f()` is a Logical OR assignment
-- `x &&= f()` is a Logical AND assignment
-- `x |= f()` is a Bitwise OR assignment
-- `x ^= f()` is a Bitwise XOR assignment
-- `x &= f()` is a Bitwise AND assignment
-
-4. Read the code below and evaluate the last expression and explain what the result would be and why.
-<br>
-- The results are "10dog" for combining "a" a string and "c" a boolean. Resulting in "10", then adding the string "dog".
-
-5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
-<br>
-- Meeting a password requirement to gain further access into a system/program.
-
-6. Give an example of when a Loop is useful in JavaScript.
-- If a user was to answer outside the required/specified parameters of a prompt, they can be re-introduced to the original prompt to try again.
 
 <details>
 <summary>Things I want to know more about</summary>
