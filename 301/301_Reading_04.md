@@ -5,8 +5,6 @@
 
 ## React Docs and Forms
 
-### Creating Hyperlinks
-
 1. What is a ‘Controlled Component’?
 <br>
 - Controlled components in React are those in which form data is handled by the component's state. 
