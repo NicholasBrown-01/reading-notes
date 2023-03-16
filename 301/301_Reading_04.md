@@ -3,71 +3,32 @@
 #### Reading Notes: 04
 <br>
 
-## Learn HTML
+## React Docs and Forms
 
 ### Creating Hyperlinks
 
-1. To create a basic link, we wrap text or other content inside what element?
+1. What is a ‘Controlled Component’?
 <br>
-- `<a href="link info here">Title or Description of Link Here</a>`
+- Controlled components in React are those in which form data is handled by the component's state. 
 
-2. The href attribute contains what information?
+2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
 <br>
-- The Web Address
+- I guess it depends on what information is being gathered by the form. But overall, I would think as soon as they enter the information. This is because we won't lose information if the leave the page, or if they need immediate feedback (such as correcting the information they are providing).
 
-3. What are some ways we can ensure links on our pages are accessible to all readers?
+3. How do we target what the user is entering if we have an event handler on an input field?
 <br>
- - Makes link descriptions clear to understand as if a speech program was reading the link information to it's audience. They should understand the place in which the link is sending them.
+ - You can use the event object that is in the event handler by assigning the users input to a variable that you can call or log.
 
-## CSS Layout
-
-### CSS Layout: Normal Flow CSS Layout: Positioning
+## The Conditional (Ternary) Operator Explained
 <br>
 
-1. What is meant by “normal flow”?
+1. Why would we use a ternary operator?
 <br>
-- Normal flow refers to the common operating procedure for CSS. It's default dynamic is to interpret the box model and block/inline elements
+- It is a shorthand way of writing if/else statements which can actually be more readable and clear as long as we are dealing with "true" and "false" type statments. Or one result, if not that one, than another.
 
-2. What are a few differences between `block-level` and `inline elements`?
+2. Rewrite the following statement using a ternary statement:
 <br>
-- Block elements fill all the available space on the entire line of the webpage while inline only fill to the edge of the content provided.
-
-3. ___ positioning is the default for every html element.
-<br>
-- `Static`
-
-4. Name a few advantages to using absolute positioning on an element.
-<br>
-
-- Absolute position is necessary when the content cannot be adjusted or manipulated by the material/content around it. Stationary elements like user interface items (buttons, menu etc) need to remain consistent for the user to interact with them.
-
-5. What is a key difference between fixed positioning and absolute positioning?
-<br>
-
-- Fixed positioning is in place in relation to the viewport. As where absolute is fixed according to the initial containing block
-
-
-## Learn JS
-
-### Functions – Reusable Blocks of Code
-
-1. Describe the difference between a function declaration and a function invocation.
-<br>
- - Declaring refers to the initial creation of the function. While Invoking that function means calling it separately to activate/initiate the function to run.
-
-2. What is the difference between a parameter and an argument?
-<br>
- - Relating to JS...none. They are used to specify when a value etc should be invoked. It is needed for the function to understand when to work, and for the function to work properly.
-
-
-### Miscellaneous
-<br>
-
-#### 6 Reasons for Pair Programming
-<br>
-Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
-
-- Work Environment Readiness & Greater Efficiency. Combined, these two concepts are a powerful start to this journey. Being prepared by having current and applicable skill-sets with what employers want is a huge objective in this course. Being able to effectively communicate and work efficiently lets your employer and peers know you take your work seriously and are there to better the organization.
+- 'console.log (x===y ? true : false);'
 
 
 <details>
