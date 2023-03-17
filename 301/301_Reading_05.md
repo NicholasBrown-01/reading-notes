@@ -3,58 +3,50 @@
 #### Reading Notes: 05
 <br>
 
-## HTML Media
-
-### Using Images In HTML. Read Common Image Types and Choosing Image Formats.
+## React Docs - Thinking in React
 <br>
 
-1. What is a real world use case for the `alt` attribute being used in a website?
+1. What is the single responsibility principle and how does it apply to components?
 <br>
-- If for some reason the link/img is broken it will display text in its place. More importantly, a read assist program can read the text description to visually impaired people.
+- This is the idea that prefers an component, function, module etc to have only One Responsibility or reason to change. If it becomes more complex, it should then be broken down further.
 
-2. How can you improve accessibility of images in an HTML document?
+2. What does it mean to build a ‘static’ version of your application?
 <br>
-- By ensuring we are creating content that can be easily translated by screen readers, providing easy to navigate menus for those that are motor impaired and clear text for visual impaired.
+- Here we are focused only on Structure, Elements, and any other arguements or properties that are needed. We do not handle any static changes or data tranfers.
 
-3. Provide an example of when the `figure` element would be useful in an HTML document.
+3. Once you have a static application, what do you need to add?
 <br>
-- Figure Elements can be used to position content without affecting the flow of the content around it. It is independent.
+- Now it is time to focus on making the necessary elements interactive. Still not transferring data.
 
-4. Describe the difference between a `gif` image and an `svg` image, pretend you are explaining to an elder in your community.
-<br>
-- gif are not scalable like an svg image. If you zoom in on a gif...it will become blurry/pixalated...while an svg stays clear and easy to see.
-
-5. What image type would you use to display a screenshot on your website and why?
-<br>
-- I would use svg because depending on the device that is loading it, it could become distorted and blurry if someone wanted to make is bigger.
-
-## Learn CSS
-
-#### Using Color in CSS. Styling HTML Text Elements
+4. What are the three questions you can ask to determine if something is state?
 <br>
 
-1. Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
-<br>
-- Foreground typically applies to the font or color of the words. While background changes the "paper" it is being type/written on.
+> - Does it remain unchanged over time? If so, it isn’t state. <br>
+> - Is it passed in from a parent via props? If so, it isn’t state. <br>
+> - Can you compute it based on existing state or props in your component?<br>
+>  ...If so, it definitely isn’t state!"
 
-2. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
-<br>
-- First thing would be to decide on a color theme/pallette consistent with the subject the webpage is handling. Ensuring sharp contrasting colors for content that needs to be shown as more important. As well as soft complimenting color for content that requires the user to be engaged for a longer period to create a feeling of comfort.
 
-3. What should you consider when choosing fonts for an HTML document?
+5. How can you identify where state needs to live?
 <br>
-- Font choice is like the body language of the page. People interpret fonts differently, but overall key characteristics such as soft and rounded fonts vs. hard and sharp will contribute to the feel of your page/content.
+- Identify components that use state
+- Find their common parent
+- Decide where to place the state in that parent component
 
-4. What do `font-size`, `font-weight`, and `font-style` do to HTML text elements?
+
+## Higher-Order Functions
+
+1. What is a “higher-order function”?
 <br>
-- Physical size of the font
-- Bold-ness of the font
-- Font property (Normal, italic, oblique)
+> - Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions. 
 
-5. Describe two ways you could add spacing around the characters displayed in an `h1` element.
+2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 <br>
-- Utilizing the `letter-spacing` and `word-spacing` properties allows you to customize space between H1 Words or individual Letters.
+- It returns a function that compares "m" with the provided "n", if "m" is greater than "n", true is returned, otherwise false.
 
+3. Explain how either map or reduce operates, with regards to higher-order functions.
+<br>
+- The 'map()' is a higher-order function because it works on an array and can also take in a function as its argument. The 'map()' function takes in an array and returns a new array while the original array remains unchanged.
 
 <details>
 <summary>Things I want to know more about</summary>
