@@ -44,7 +44,7 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 03](301/301_Reading_03.md) | React: Keys, Map, Increments |
 | [Reading Notes 04](301/301_Reading_04.md) | React: Forms, Docs, Ternary Operator |
 | [Reading Notes 05](301/301_Reading_05.md) | React: Single Responsibility, Higher Order Functions |
-| [Reading Notes 06](301/301_Reading_06.md) | TBD |
+| [Reading Notes 06](301/301_Reading_06.md) | Node.js Intro, Pair Programming|
 | [Reading Notes 07](301/301_Reading_07.md) | TBD |
 | [Reading Notes 08](301/301_Reading_08.md) | TBD |
 | [Reading Notes 09](301/301_Reading_09.md) | TBD |

@@ -3,46 +3,63 @@
 #### Reading Notes: 06
 <br>
 
-## JavaScript Object Basics
+## An Introduction to Node.js on sitepoint.com
 <br>
 
-1. How would you describe an object to a non-technical friend you grew up with?
+1. What is node.js?
 <br>
-An object is a way to assign several items/details/specifics all under one title or name. Such as saying the word "Human". Well, all humans have "arms, legs, head, neck etc". So you can assign all those body parts under the "object" of "human" and the system will know to include all those parts by just calling the one name "human".
+- It is an open source project that can cross platform with JavaScript that let's people make scalable web applications.
 
-2. What are some advantages to creating object literals?
+2. In your own words, what is Chrome’s V8 JavaScript Engine?
 <br>
-That they can later be applied with constructors. 
+- It is what allows JavaScript to be run an any computer.
 
-3. How do objects differ from arrays?
+3. What does it mean that node is a JavaScript runtime?
 <br>
-Array only carry a "list" of things/data in one variable, while objects are assigned multiple "characteristics" and data types of information.
+- It allows JavaScript to be run server-side and not just on the client web browser/computer.
 
-4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
+4. What is npm?
 <br>
-If the property name has spaces or special characters in it, bracket notation is required.
+- That is short for Node Package Manager which is the default package manager for Node.js.
 
-5. Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?
+5. What version of node are you running on your machine?
 <br>
-`this` refers to the const `dog`. The advantage of `this` is that we can reuse functions that have the ability to be used with different objects. 
+- 19.4.0
 
-## Introduction To The DOM
+6. What version of npm are you running on your machine?
+<br>
+- 9.2.0
+
+7. What command would you type to install a library/package called ‘jshint’?
+<br>
+- 'npm install jshint'
+
+8. What is node used for?
+<br>
+- Web applications
+- Desktop applications
+- Machine learning and AI
+- Command line tools
+
+
+## 6 Reasons for Pair Programming
 <br>
 
-1. What is the DOM?
+1. What are the 6 reasons for pair programming?
 <br>
-The Document Object Model is what allows elements/data in a webpage (in our case) to be more than a "static" product. By utilizing objects, methods, functions etc, content can be manipulated and thus be interactive to the user.
+- Greater Efficiency
+- Engaged Collaboration
+- Social Skills
+- Job Interview Readiness
+- Work Environment Readiness
 
-2. Briefly describe the relationship between the DOM and JavaScript.
+2. In your experience, which of these reasons have you found most beneficial?
 <br>
+ - Learning from others. Everyone gets their light bulb to come on in different ways when it comes to learning. It is very beneficial to hear material from different points of view in order to better understand the subjec at hand.
 
-Javascript is simply the language used to manipulate/control the data representation of the webpage managed by the DOM.
-
-
-
-
-
-
+3. How does pair programming work?
+<br>
+- This is normally divided into two roles: The Driver (One who physcially codes) and The Navigator (One who keeps track of the big pictures and guides the session to accomplish the goal)
 
 <details>
 <summary>Things I want to know more about</summary>
