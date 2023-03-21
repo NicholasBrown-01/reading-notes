@@ -3,38 +3,65 @@
 #### Reading Notes: 10
 <br>
 
-## What Went Wrong? Troubleshooting JavaScript
+## Understanding the JavaScript Call Stack
+
+1. What is a ‘call’?
+<br>
+- A call is the means by which a function is invoked. 
+
+2. How many ‘calls’ can happen at once?
+<br>
+- In JavaScript, only 1 call can happen at a time.
+
+3. What does LIFO mean?
+<br>
+- This term means Last In First Out -- referring to the order in which calls are executed in the stack.
+
+4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 <br>
 
-1. Name some key differences between a Syntax Error and a Logic Error.
+> function firstFunction(){ <br>
+> console.log("Hello from firstFunction"); <br>
+> }<br> 
+>
+> function secondFunction(){ <br>
+>  firstFunction(); <br>
+>  console.log("The end from secondFunction"); <br>
+> } <br>
+>
+> secondFunction(); <br>
+
+5. What causes a Stack Overflow?
 <br>
-A Logic Error is when a desired output or value is not produced while a Syntax Error regards the code violating a sytax rule of the programming language.
+- This occurs when a call stack exceeds the maximum size causing a crash. This normally happens if functions never terminate and too many run.
 
-
-2. List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.
-<br>
-I had a logic error that was causing my footer to not be removed from my table, more specifically the Totals colums was being recreated every time a user input a new city....even though I thought I had the code right to remove that exact line. It turned out, that while I was calling the name of my table in the html, I had to add `tbody` to the querySelector because JS didn't understand that it needed to target the last row of the table in my JS table creation vs a physical tag in the html...because we created the table via JS...it didn't see anything to remove.
-
-
-3. How will this topic continue to influence your long term goals?
-<br>
-Syntax and logic errors I assume will be a major part of our careers moving forward. Thus the better we are able to identify and troubleshoot them the more successful we will be.
-
-
-## The JavaScript Debugger
+## JavaScript error messages
 <br>
 
-1. How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
+1. What is a ‘reference error’?
 <br>
-It allows for specific testing in areas that we define in our code to ensure these setions are working correctly.
+- A variable or function is referenced but not defined.
 
-2. Define what a breakpoint is.
+2. What is a ‘syntax error’?
 <br>
-A breakpoint acts as a "stop sign" for the debugger. It will run until that point and the "stop" or "break" to prevent the program from continuing to run through your entire code.
+- Code violates the language syntax rule and cannot be executed.
 
-3. What is the call stack?
+3. What is a ‘range error’?
 <br>
-It simply tell us the code that was actually executed to get the the current line you are on.
+- A value is outside the acceptable range such as with arrays being too large etc.
+
+4. What is a ‘type error’?
+<br>
+- value of the wrong type for the operation that is being performed.
+
+5. What is a breakpoint?
+<br>
+- This is associated with a debugger session at which point the test will stop on this specific line.
+
+6. What does the word ‘debugger’ do in your code?
+<br>
+- this will manually set a breakpoint allowing a test to pause for inspection.
+
 
 <details>
 <summary>Things I want to know more about</summary>

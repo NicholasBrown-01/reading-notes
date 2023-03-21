@@ -45,10 +45,10 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 04](301/301_Reading_04.md) | React: Forms, Docs, Ternary Operator |
 | [Reading Notes 05](301/301_Reading_05.md) | React: Single Responsibility, Higher Order Functions |
 | [Reading Notes 06](301/301_Reading_06.md) | Node.js Intro, Pair Programming|
-| [Reading Notes 07](301/301_Reading_07.md) | TBD |
-| [Reading Notes 08](301/301_Reading_08.md) | TBD |
-| [Reading Notes 09](301/301_Reading_09.md) | TBD |
-| [Reading Notes 10](301/301_Reading_10.md) | TBD |
+| [Reading Notes 07](301/301_Reading_07.md) | API, Key, REST |
+| [Reading Notes 08](301/301_Reading_08.md) | REST, URIs |
+| [Reading Notes 09](301/301_Reading_09.md) | Modules |
+| [Reading Notes 10](301/301_Reading_10.md) | Callstacks, JS Error Messages |
 | [Reading Notes 11](301/301_Reading_11.md) | TBD |
 | [Reading Notes 12](301/301_Reading_12.md) | TBD |
 | [Reading Notes 13](301/301_Reading_13.md) | TBD |

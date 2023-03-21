@@ -3,45 +3,47 @@
 #### Reading Notes: 07
 <br>
 
-## Domain Modeling
+## REST
 
-1. Explain why we need domain modeling.
+1. Who is Roy Fielding?
 <br>
-Domain Modeling gives everyone at the table a common operating picture in which to work from. It breaks down the issue into specific relationships, classes, objects, attributes etc that can be quantified, rated, customized, and called upon throughout the program to deliver a desired result.
+- He is a computer scientist that helped create HTTP as well as the Apache Software Foundation. He also heavily contributed to the Representational State Tranfer.
 
-## HTML Table Basics
-
-1. Why should tables not be used for page layouts?
+2. Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?
 <br>
-Tables are not there to be utilized in helping with HTML Page Structure. They are there to represent tabular data.
+- Things we create need to be URL or universally accessible.
 
-2. List and describe 3 different semantic HTML elements used in an HTML `<table>`.
+3. What is the HTTP protocol that Fielding and his friends created?
 <br>
+- It applies "verbs to nouns" in a language analogy.
 
-- `<thead>` is the header content.
-- `<tr>` is a row.
-- `<caption>` is a title or description
-
-
-## Introducing Constructors
-
-1. What is a constructor and what are some advantages to using it?
+4. What does a GET do?
 <br>
-This is a method in object-oriented code. They are used declare object properties and allow for consistency and flexibility throughout the program.
+- It is a request method use by the client to 'get' a resource from a server.
 
-2. How does the term `this` differ when used in an object literal versus when used in a constructor?
+5. What does a POST do?
 <br>
-`this` when declared inside a function is a reference to the object the function creates. `This` inside a constructor means something is being created with a new value.
+- It is a way for the client to send information such as with a form submission.
 
-## Object Prototypes Using A Constructor
-
-
-1. Explain prototypes and inheritance via an analogy from your previous work experience. 
-
-NOTE: This is a very common front end developer interview question
+6. What does PUT do?
 <br>
+- This is a way for the client to update a resource with a new representation of that specific data etc.
 
-When working on a helicopter, many are created with the same basic stucture and components...like a prototype. However, based on the mission set for that day, some of those components can be changed to better facilitate the mission, but all other body, equipment etc remains the same.
+7. What does PATCH do?
+<br>
+- This action only partially updates the resource such as updating only and email address or number.
+
+## API Keys
+
+*Request a personal API key from the following APIs. You should receive these in your email within a few hours, often within minutes. Please request these keys prior to lecture to allow adequate time because you will need them in order to complete your lab assignment. Note: do not post your API keys in the Canvas discussion or on GitHub. Save them in a secure place.*
+
+- Geocoding API -- YES
+
+- Weather Bit API --YES
+
+- Yelp API Docs -- NO
+
+- The Movie DB API Docs -- YES
 
 
 

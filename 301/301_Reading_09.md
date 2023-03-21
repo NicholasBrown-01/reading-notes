@@ -3,45 +3,47 @@
 #### Reading Notes: 09
 <br>
 
-## HTML Forms
+## Functional Programming Concepts
 <br>
 
-1. Why are forms so important in web development?
+1. What is functional programming?
 <br>
-The forms of forms (haha) allow us to gather data...and data is needed to create specific, engaging, working, and dynamic products. Purchases, Contact Info, Payment information all require inputs that we get from forms.
+- This is "is a programming paradigm a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data".
 
-2. When designing a form, what are some key things to keep in mind when it comes to user experience?
+2. What is a pure function and how do we know if something is a pure function?
 <br>
-As with anything that requires the attention of people, make sure it is Clear and Easy to understand. Unneccesary complication will result in frustration or quitting of the audience. So use a logical layout, and try and keep it as minimul as possible.
+- This is a function that "returns the same result if given the same arguments (it is also referred as deterministic) and it does not cause any observable side effects."
 
-3. List 5 form elements and explain their importance.
+3. What are the benefits of a pure function?
 <br>
-Text input: Creates a text field.
-Checkbox: Creates a checkbox
-Text Area: Creates area for long text
-Submit Button: Send the data to the server to be processed
-Dropdown Menu: Gather Client information or control list of choices.
+- They are easier to test, as well as being more "composable" and therefore less error prone.
 
-
-## Learn JS
-
-
-1. How would you describe events to a non-technical friend?
+4. What is immutability?
 <br>
-Events are a "follow up" response that results in something occuring when an input or action is detected by the user. Like clicing "ok" on a button results in another window popping up.
+- This involves the property of an object or data structure. They are those objects with states that cannot changes once instantiated.
 
-
-2. When using the addEventListener() method, what 2 arguments will you need to provide?
+5. What is Referential transparency?
 <br>
-The name of the event and the function that will handle the event.
+- This is a property of a function that will always produce the same result for a given input.
 
-3. Describe the event object. Why is the target within the event object useful?
+## Videos
 <br>
-Because you can get more details on the action that triggered the event. So you can know which element was activated when sorting through multiple elements.
 
-4. What is the difference between event bubbling and event capturing?
+1. What is a module?
 <br>
-Event bubblins is the JS default for handling events. This starts in the innermost element and then "bubbles" or works it's way out/up to the parent element. Even Capturing is the opposite where it starts at the parent and then works it way through or "down" the child elements.
+- It is a self contained unit of code that can be reused in other parts of the program.
+
+2. What does the word ‘require’ do?
+<br>
+- This indicates a module or package that is mandatory for the program to run correctly.
+
+3. How do we bring another module into the file the we are working in?
+<br>
+- You can use an 'import' or include statement such as 'const moduleName = require('module-name');'
+
+4. What do we have to do to make a module available?
+<br>
+- The module must be exported and then called or installed before being imported into another program.
 
 
 <details>

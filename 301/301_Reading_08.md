@@ -3,33 +3,51 @@
 #### Reading Notes: 08
 <br>
 
-## Learn CSS - Flexbox
-<br>
+## API Design Best Practices
 
-1. Flexbox is designed for one-dimensional content. Explain what this means.
+1. What does REST stand for?
 <br>
-Flexbox is for single surface products. It can account for and calculate spacial needs based on single dimensions such as x and y axis... but not for depth (a z-axis).
+- Representational State Transfer
 
-2. Explain the difference between the main axis and cross axis.
+2. REST APIs are designed around a ____.
 <br>
-As states above, x and y axis are interchangeable with the concept of the Main Axis (left to right) and Cross Axis (top to bottom). The key difference being that Main Axis always flows from the left to the right, and Cross Axis always flows from the top to the bottom...unless stated otherwise via CSS or inline styles.
+- Resources!
 
-3. How can using certain properties of flexbox negatively impact accessibility?
+3. What is an identifier of a resource? Give an example.
 <br>
-Flexbox is purely for visual organizing purposes. Utilizing certain features will cause content to possibily appear in incorrect orders of logic sense, such as a menu or article list. Screen readers or tab navigation may not be able to relay the content correctly.
+- It identifies the reource that is being interacted with such as 'https://adventure-works.com/orders/1'
 
-## CSS Layout - Flexbox
+4. What are the most common HTTP verbs?
 <br>
+- GET, POST, PUT, PATCH, and DELETE.
 
-*Read up to “Flex-Flow Shorthand”*
-
-1. What are some advantages of using flexbox over float?
+5. What should the URIs be based on?
 <br>
-One of the largest benefits of Flexbox is it's ability to dynamically align content across differenet platforms (Computers, Ipads, Phones etc.). Is also does so with less CSS coding than float.
+- They should be based on the resources being identified and provide an unique way to locate and access them.
 
-2. How does this topic connect with your long term goals?
+6. Give an example of a good URI.
 <br>
-I think as a professional developer a high priority is for your product to alway be visually consistent across devices. Understanding flexbox is key to doing so. Especially for the purpose of not discourage interaction or engagament from your audience to complicated content that is not orgranized in a desireable way.
+- '/customers/5/orders'
+
+7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+<br>
+- It is not a good thing. This term means bigger that neccessary loads are being handles due to poor naming.
+
+8. What status code does a successful GET request return?
+<br>
+- 200
+
+9. What status code does an unsuccessful GET request return?
+<br>
+- 404
+
+10. What status code does a successful POST request return?
+<br>
+- 201
+
+11. What status code does a successful DELETE request return?
+<br>
+- 204
 
 
 <details>
