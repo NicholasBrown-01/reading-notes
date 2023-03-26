@@ -14,6 +14,8 @@ Fill in the chart below with five differences between SQL and NoSQL databases:
 | SQL databases enforce ACID (atomicity, consistency, isolation, and durability) properties, which guarantee data integrity and consistency. | NoSQL databases typically prioritize availability and partition tolerance over consistency, and may not enforce ACID properties. |
 | SQL databases are widely used in enterprise applications, such as banking and finance, where data consistency and reliability are critical. | NoSQL databases are often used in web and mobile applications, social media, and IoT, where speed and flexibility are more important than data consistency. |
 
+*Table Made with ChatGPT*
+
 1. What kind of data is a good fit for an SQL database?
 <br>
 - Structured Data that is well defined.
