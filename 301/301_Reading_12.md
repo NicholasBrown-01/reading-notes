@@ -3,53 +3,77 @@
 #### Reading Notes: 12
 <br>
 
-## JavaScript Canvas
+## Status Codes Based On REST Methods
+
+1. In your own words, describe what each group of status code represents:
 <br>
 
-
-1. What does the `<canvas>` allow a developer to acheive?
+100’s = Informative status code
 <br>
-It allows the developer to create graphics and animations with Javascript to be displayed and interacted with on the webpage.
-
-
-2. What is the importance of the closing ``</canvas>` tag?
+200’s = A request has been successfully processed
 <br>
-The browser will try to automatically close the tag, but it can lead to unexpected behavior.
-
-
-3. Explain what the `getContext()` method does.
+300’s = Additional Action Required
 <br>
-It is a built in JavaScript method that allows the developer to utilize drawing functions such as lines, shapes, text etc
-
-
-## Chart.js Documentation:
+400’s = Bad request was made
+<br>
+500’s = Server error
 <br>
 
-
-1. What is Chart.js and how it can be brought into your project?
+2. What is a status code 202?
 <br>
-It is an index of charts and graphs that can be used to create flexible and responsive charts. It is open source, and thus you must download it's libarary and include the script in your `<head>` tag.
+- Request accepted but not complete
 
-2. List 3 different Chart types you can create using Chart.js.
+3. What is a status code 308?
 <br>
-Bar graphs, pie charts, line charts.
+- Different URL needed
+
+4. What code would you use if an update didn’t return data to a client?
+<br>
+- 204 No Content
+
+5. What code would you use if a resource used to exist but no longer does?
+<br>
+- 410 Gone
+
+6. What is the ‘Forbidden’ status code?
+<br>
+- 403 Forbidden
 
 
-## Easily Create Stunning Animated Charts with Chart.js
+## Build A REST API With Node.js, Express, & MongoDB
 <br>
 
-
-1. What are some advantages to displaying data via a chart over a table?
+1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
 <br>
-Charts are more visually pleasing and more simple to interpret. They are especially useful in providing scope or scale when comparing metrics in which you need to show a drastic relationship.
+- Because we put sensitive information into our .env
 
-2. How could Chart.js aid your previously created applications visually?
+2. What is middleware?
 <br>
-Even with our Salmon Cookies Page, providing a visual representation of the table date would quickly highlight store logcations that perform much better than others.
+- Functions that can modify/intercept requests and responses in Express.js.
 
+3. What does `app.use(express.json())` do?
+<br>
+- It is Middleware the parses incoming JSON data and makes it available to the request object.
 
+4. What does the /:id mean in a route?
+<br>
+- It can extract a value from the URL.
 
+5. What is the difference between `PUT` and `PATCH?`
+<br>
+- They are HTTP methods, PUT replaces an existing resource with a new one. PATCH updates a resource with new data only.
 
+6. How do you make a default value in a schema?
+<br>
+- Use the `default` property when defining the schema.
+
+7. What does a `500` error status code mean?
+<br>
+- Server Side Error
+
+8. What is the difference between a status `200` and a status `201`?
+<br>
+- 200 (GET) means a requst was successful, 201 means the request has been created on the server and a resource has been created, such as POST, PUT and PATCH.
 
 <details>
 <summary>Things I want to know more about</summary>

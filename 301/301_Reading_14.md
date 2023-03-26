@@ -3,41 +3,34 @@
 #### Reading Notes: 14
 <br>
 
-## CSS Transforms
+## Consider the history: That Time When Women Stopped Coding
 <br>
 
-
-1. What does a CSS transform allow the developer to do to an element?
+1. What occurred during the same time as the beginning of the decline of women in computer science?
 <br>
-It allows the developer to alter an element such as: rotate, scale, translate, and skew.
+- Once computers commonly became home objects they were correlated more with boys and toys and that stigma was never really conquered.
 
-2. Provide an example of a transform and how you could see that being used on a website.
+2. Why does it matter that males had been playing on computers growing up?
 <br>
-Scaling, or `transform: scale()` will make the element larger or smaller. You can use this action to visually show the user an element
-they currently have selected by making it bigger.
+- It comes down to image and how it is not likely a battle or confrontation worth fighting if a popular opinion proves too challenging to overcome for what would be "little gain" at the time. Especially when there were other options to pursue.
 
-## CSS Transitions & Animations
+## Review the data: Employee breakdown of key technology companies
 <br>
 
-1. What does a CSS transition allow the developer to do to an element?
-<br>
-This allows the developer to to animate the CSS property of an element over a certain amount of time.
-
-2. How does a CSS animation differ from a CSS transition?
-<br>
-CSS transition refers to the change or transition between two CSS states. On the other hand, an animation create a continuous animation that involves multiple keyframes.
-
-## 8 simple CSS3 transitions that will wow your users
+#### Ask the question: Why diversity matters to your tech company
 <br>
 
-
-1. What are some benefits to using CSS transitions on websites?
+1. When are diversity efforts most successful?
 <br>
-Most CSS transitions are compatible with modern browsers, so no external libraries need to be loaded. This also means lower load time for the transitions which minimize performance impacts. Lastly, the overall user experience and improved engagement are positively bolstered with visually pleasing elements that if done properly will contribute to the logic/structure of the website.
+- When it has the full backing and support from leadership.
 
-2. How this topic fit in with your long-term goals?
+2. Why do diverse companies perform better?
 <br>
-It is clear that understanding proper and applicable application of CSS transitions is important to creating an "all around" professional website. Being able to apply these techniques will help users navigate and enjoy their experience on our sites.
+- ""Diverse groups of people bring to organizations more and different ways of seeing a problem and, thus, faster/better ways of solving it."
+
+3. Give an example of how a diverse company can serve a diverse user base or vise-versa.
+<br>
+- They are able to undestand several more aspects of diverse needs and values, and thus structure their products or services to represent these groups in meaningful ways that create loyal customers as a result.
 
 
 <details>

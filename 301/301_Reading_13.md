@@ -3,27 +3,30 @@
 #### Reading Notes: 13
 <br>
 
-## Local Storage and How To Use It On Websites
+## CRUD Basics
+
+1. Which HTTP method would you use to update a record through an API?
+<br>
+- Typically use the HTTP PUT or PATCH method
+
+2. Which REST methods require an ID parameter?
+<br>
+- GET, PUT, or PATCH or DELETE need an ID to reference what is being handles specifically
+
+## Speed Coding: Building a CRUD API
 <br>
 
-1. Why would a developer use local storage for a web application?
+1. What’s the relationship between REST and CRUD?
 <br>
-There are a few reasons, but I believe the most beneficial ones are Offline Storage, and better performance...especially when developing a new program or site. Constant loading and saving to a server can cut down a lot of time.
+- Create-Read-Update-Delete can be used on Data, while Representational State Transfer is the principles that say how it should be implemented. So, a REST API can perform CRUD operations.
 
-2. What information should not be stored in local storage?
+2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
 <br>
-Things such as sensitive information, payment information, or personal identification information. Thus, things like preferences or administrative data should be stored in local storage.
-
-3. Local storage can store what type of data? How would you convert it to that type before storing?
-<br>
-As far as "data types" it can store strings, but numbers, arrays, objects etc must be converted before storing.
-
-`var myNumber = 12;
-localStorage.setItem('myNumber', myNumber.toString());`
-
-is an example of how to convert a number to a string.
-
-
+- Define the data
+- Choose methods
+- Define Structure
+- Create Endpoints
+- Test
 
 
 <details>

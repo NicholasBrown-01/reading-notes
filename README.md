@@ -49,11 +49,11 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 08](301/301_Reading_08.md) | REST, URIs |
 | [Reading Notes 09](301/301_Reading_09.md) | Modules |
 | [Reading Notes 10](301/301_Reading_10.md) | Callstacks, JS Error Messages |
-| [Reading Notes 11](301/301_Reading_11.md) | TBD |
-| [Reading Notes 12](301/301_Reading_12.md) | TBD |
-| [Reading Notes 13](301/301_Reading_13.md) | TBD |
-| [Reading Notes 14](301/301_Reading_14.md) | TBD |
-| [Reading Notes 15](301/301_Reading_15.md) | TBD |
+| [Reading Notes 11](301/301_Reading_11.md) | NoSQL vs SQL |
+| [Reading Notes 12](301/301_Reading_12.md) | HTTP Code and Express and REST API |
+| [Reading Notes 13](301/301_Reading_13.md) | CRUD Basics and API |
+| [Reading Notes 14](301/301_Reading_14.md) | Diversity in Tech Industry |
+| [Reading Notes 15](301/301_Reading_15.md) | Authentication |
 
 ## *Course 401 Advanced Software Development*
 
