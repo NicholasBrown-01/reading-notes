@@ -3,11 +3,11 @@
 ## Relational Databases and SQL
 <br>
 
-### Summary of Learing
+### Summary of Learning
 <br>
 
-SQL is a means in which we can efficiently access specific information contained in the data
-we are working with. It allows us to not only create quickly searchable (query-able) information, but to also customize and query data to our needs at the time of the search. Thus we can target specific components based on highly customized parameteres that we create in order to sort through needed information and to display it in a visually pleasing and usable manner.
+SQL is a means by which we can efficiently access specific information contained in the data
+we are working with. It allows us to not only create quickly searchable (query-able) information, but to also customize and query data to our needs at the time of the search. Thus, we can target specific components based on highly customized parameters that we create in order to sort through needed information and to display it in a visually pleasing and usable manner.
 <br>
 <br>
 ### Pre-Work Screenshots
