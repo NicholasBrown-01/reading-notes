@@ -59,6 +59,7 @@ The following is a table of contents for quickly locating Code Fellows course re
 
 | Reading Notes | Description |
 | --- | --- |
+| [PreWork SQL](401/401_PreWork_SQL.md) | TBD |
 | [Reading Notes 01](401/401_Reading_01.md) | TBD |
 | [Reading Notes 02](401/401_Reading_02.md) | TBD |
 | [Reading Notes 03](401/401_Reading_03.md) | TBD |
