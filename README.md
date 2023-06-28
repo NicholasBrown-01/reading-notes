@@ -57,5 +57,23 @@ The following is a table of contents for quickly locating Code Fellows course re
 
 ## *Course 401 Advanced Software Development*
 
+| Reading Notes | Description |
+| --- | --- |
+| [Reading Notes 01](401/401_Reading_01.md) | TBD |
+| [Reading Notes 02](401/401_Reading_02.md) | TBD |
+| [Reading Notes 03](401/401_Reading_03.md) | TBD |
+| [Reading Notes 04](401/401_Reading_04.md) | TBD |
+| [Reading Notes 05](401/401_Reading_05.md) | TBD |
+| [Reading Notes 06](401/401_Reading_06.md) | TBD |
+| [Reading Notes 07](401/401_Reading_07.md) | TBD |
+| [Reading Notes 08](401/401_Reading_08.md) | TBD |
+| [Reading Notes 09](401/401_Reading_09.md) | TBD |
+| [Reading Notes 10](401/401_Reading_10.md) | TBD |
+| [Reading Notes 11](401/401_Reading_11.md) | TBD |
+| [Reading Notes 12](401/401_Reading_12.md) | TBD |
+| [Reading Notes 13](401/401_Reading_13.md) | TBD |
+| [Reading Notes 14](401/401_Reading_14.md) | TBD |
+| [Reading Notes 15](401/401_Reading_15.md) | TBD |
+
 > Nicholas Brown
 >> Contact @ [GitHub](https://github.com/NicholasBrown-01)
