@@ -13,7 +13,7 @@
 <br>
 - Each Student can have a name, a grade, and age, a sex etc.
 
-3. Name two types of behaviours that a student object might have.
+3. Name two types of behaviors that a student object might have.
 <br>
  - They could be attentive, tardy, early, talker, joker etc.
 
