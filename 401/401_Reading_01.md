@@ -1,34 +1,56 @@
 [BACK TO MAIN DIRECTORY](../README.md)
 
-#### Component Based Architecture
+#### Java Basics
 <br>
 
-1. What is a “component”?
+1. What does “strong typed” mean?
 <br>
-A component represents interfaces, methods, events, and properties for the sake of creating reuable and efficient code.
+Everything must be compatible and specifically declared and used within the language.
 
-2. What are the characteristics of a component?
+2. What are the primitive data types?
+<br> 
+There are 8 in total: [Oracle Documentation](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 <br>
-It is a software object that is "modular, protable, replaceable, reusable, and independent.
 
-3. What are the advantages of using component-based architecture?
+- byte: An 8-bit signed integer for saving memory in arrays and clarifying code with limited range.
+
+- short: A 16-bit signed integer for memory-saving and limited range scenarios, similar to byte.
+
+- int: A 32-bit signed integer with a wider range, or an unsigned 32-bit integer with a range from 0 to 2^32-1.
+
+- long: A 64-bit signed integer for wider value ranges or an unsigned 64-bit integer from 0 to 2^64-1.
+
+- float: A 32-bit single-precision floating-point number for efficient memory usage in large arrays, not suitable for precise values like currency.
+
+- double: A 64-bit double-precision floating-point number, commonly used for decimal values and default choice for floating-point calculations.
+
+- boolean: A data type with two values, true and false, used to represent simple true/false conditions.
+
+- char: A 16-bit Unicode character with a range from '\u0000' to '\uffff' (0 to 65,535).
+
+
+
+
+#### XKCD: Compiling
+
+1. Explain to a non-technical friend the difference in how compilation works in Java and JavaScript.
 <br>
-As stated above it is reusable, independent, easily modifiable, easy to develop and more reliable.
+Java performs this task in a 2 step process in order to break down the whole program into the most basic instructions. JavaScript however, does it "as you go" and only when it finds repetetive code does it break it down into more basic instructions for faster processing.
 
-#### What is Props and How to Use it in React
-
-1. What is “props” short for?
+2. Does code complining mean that it works correctly?
 <br>
-It is short for "properties" and is used to transfer data from one component to another.
+It does not. It means that it was able to be broken down or translated into instructions correctly. Not that those instructions are in the correct order or successful etc.
 
-2. How are props used in React?
+
+#### Reading Java Documentation
+
+1. How many keywords does Java have?
 <br>
-A prop is an object that can be passed to a component like an arguement to update or pass data to a parent etc element.
+Java has about 50-60 keywords.
 
-3. What is the flow of props?
+2. How do you print words to the console in Java?
 <br>
-It must flow from Parent to Child etc.
-
+Primarily this is accomplished by utilitinz the `System.out.println("")` method.
 
 <details>
 <summary>Things I want to know more about</summary>

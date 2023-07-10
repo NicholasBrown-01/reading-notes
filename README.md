@@ -55,13 +55,13 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 14](301/301_Reading_14.md) | Diversity in Tech Industry |
 | [Reading Notes 15](301/301_Reading_15.md) | Authentication |
 
-## *Course 401 Advanced Software Development*
+## *Course 401 Advanced Software Development* ☕ (Java)
 
-| Reading Notes | Description |
+| Reading Notes | Description | 
 | --- | --- |
 | [PreWork SQL](401/401_PreWork_SQL.md) | SQL Pre-Work |
 | [PreWork BASH](401/401_PreWork_BASH.md) | BASH Pre-Work |
-| [Reading Notes 01](401/401_Reading_01.md) | TBD |
+| [Reading Notes 01](401/401_Reading_01.md) | Java Basics |
 | [Reading Notes 02](401/401_Reading_02.md) | TBD |
 | [Reading Notes 03](401/401_Reading_03.md) | TBD |
 | [Reading Notes 04](401/401_Reading_04.md) | TBD |
