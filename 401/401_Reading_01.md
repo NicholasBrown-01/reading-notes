@@ -35,9 +35,9 @@ There are 8 in total: [Oracle Documentation](https://docs.oracle.com/javase/tuto
 
 1. Explain to a non-technical friend the difference in how compilation works in Java and JavaScript.
 <br>
-Java performs this task in a 2 step process in order to break down the whole program into the most basic instructions. JavaScript however, does it "as you go" and only when it finds repetetive code does it break it down into more basic instructions for faster processing.
+Java performs this task in a 2 step process in order to break down the whole program into the most basic instructions. JavaScript however, does it "as you go" and only when it finds repeatetive code does it break it down into more basic instructions for faster processing.
 
-2. Does code complining mean that it works correctly?
+2. Does code compiling mean that it works correctly?
 <br>
 It does not. It means that it was able to be broken down or translated into instructions correctly. Not that those instructions are in the correct order or successful etc.
 
@@ -50,7 +50,7 @@ Java has about 50-60 keywords.
 
 2. How do you print words to the console in Java?
 <br>
-Primarily this is accomplished by utilitinz the `System.out.println("")` method.
+Primarily this is accomplished by utilizing the `System.out.println("")` method.
 
 <details>
 <summary>Things I want to know more about</summary>
