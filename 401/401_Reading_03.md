@@ -3,84 +3,48 @@
 #### Reading Notes: 03
 <br>
 
-### Learn HTML
-
-#### React Docs - lists and keys
+## Primitives vs. Objects
 <br>
 
-1. What does .map() return?
+1. Explain the difference between an “int” and an “Integer” in Java.
 <br>
-- Whatever is in the assigned array.
+- Int is a Primitive while Integer is an object. This means that int cannot hold a value of null as well as having not methods available to it for manipulations like Integer can. In short, int can be assigned a singular value.
 
-2. If I want to loop through an array and display each value in JSX, how do I do that in React?
+2. What is the default value for ints? Integers?
 <br>
-- Use your old array combined with the .map() method to then display each value into a html property syntax
+- As stated above, int is set to '0', and Integer is 'null', 
 
-3. Each list item needs a unique ____.
+3. What is autoboxing? Unboxing?
 <br>
-- key
+- Java will automatically convert and access value between primitives and their wrappers/objects without explicitly having to call both.
 
-4. What is the purpose of a key?
-<br>
-- They help identify things that have changed, been added or removed.
-
-
-### The Spread Operator
+## Exceptions in Java
 <br>
 
-1. What is the spread operator?
+1. List the three basic categories of exceptions.
 <br>
-- It is JavaScript syntax used to manipulate and manage data in an array. 
+They are:
+ - Checked Exceptions
+ - Unchecked Exceptions
+ - Errors
 
-2. List 4 things that the spread operator can do.
+ This allows Java to catagorize and thus handle these items appropriately.  
+
+2. What type of statement can you use to handle an exception?
 <br>
-- Combine arrays, Combine objects, adding items to an array, or spreading it out.
+- Like we did in JavaScript, you can make a catch-all with a 'try-catch' statement to handle all possible outcomes and errors.
 
-3. Give an example of using the spread operator to combine two arrays.
-<br>
-*From https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab*
 
-- const myArray = [`🤪`,`🐻`,`🎌`] <br>
-const yourArray = [`🙂`,`🤗`,`🤩`]<br>
-const ourArray = [...myArray,...yourArray]<br>
-console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩<br>
-
-4. Give an example of using the spread operator to add a new item to an array.
-<br>
-*From https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab*
-- const fewFruit = ['🍏','🍊','🍌'] <br>
-const fewMoreFruit = ['🍉', '🍍', ...fewFruit]<br>
-console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]<br>
-
-5. Give an example of using the spread operator to combine two objects into one.
-<br>
-*From https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab*
-
-- const objectOne = {hello: "🤪"}<br>
-const objectTwo = {world: "🐻"}<br>
-const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}<br>
-console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }<br>
-const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}<br>
-objectFour.laugh() // 😂😂😂😂😂<br>
-
-### How to Pass Functions Between Components
+## Using Scanner
 <br>
 
-1. In the video, what is the first step that the developer does to pass functions between components?
+1. Describe a situation where you think it would be useful to have a program that scans text.
 <br>
-- He places the function between the parent and the child.
+- Scanners are useful any time you need user input to further the program via parameters, selection, or other needed data.
 
-2. In your own words, what does the increment function do?
+2. What is input from a Scanner broken down into?
 <br>
-- It increases the value of a variable by a specific amount.
-
-3. How can you pass a method from a parent component into a child component?
-<br>
-- 'increment={this.increment}'
-
-4. How does the child component invoke a method that was passed to it from a parent component?
-<br>
-- You can make the increment a prop that is called Ex: 'this.props.increment()'
+- The input can be set based on what 'valueOf' condition is used such as 'Integer.valueOf' or 'String.valueOf'. These are also broken down into tokens which help Java understand the value to be manipulated or stored.
 
 
 <details>

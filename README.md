@@ -63,7 +63,7 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [PreWork BASH](401/401_PreWork_BASH.md) | BASH Pre-Work |
 | [Reading Notes 01](401/401_Reading_01.md) | Java Basics |
 | [Reading Notes 02](401/401_Reading_02.md) | Java Imports, Loops, Arrays |
-| [Reading Notes 03](401/401_Reading_03.md) | TBD |
+| [Reading Notes 03](401/401_Reading_03.md) | Primitives, Objects, Exceptions |
 | [Reading Notes 04](401/401_Reading_04.md) | TBD |
 | [Reading Notes 05](401/401_Reading_05.md) | TBD |
 | [Reading Notes 06](401/401_Reading_06.md) | TBD |
