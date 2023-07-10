@@ -3,30 +3,58 @@
 #### Reading Notes: 04
 <br>
 
-## React Docs and Forms
+## Java OO Tutorial (only the Object and Class ones)
 
-1. What is a ‘Controlled Component’?
+1. Explain the difference between an object and a class.
 <br>
-- Controlled components in React are those in which form data is handled by the component's state. 
+- A class in the template that creates the structure of an Object. The Object is the tangible thing inside a class that contains an attribute or property that can contribute to the Class.
 
-2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
+2. Name two types of state that a Student object might have.
 <br>
-- I guess it depends on what information is being gathered by the form. But overall, I would think as soon as they enter the information. This is because we won't lose information if the leave the page, or if they need immediate feedback (such as correcting the information they are providing).
+- Each Student can have a name, a grade, and age, a sex etc.
 
-3. How do we target what the user is entering if we have an event handler on an input field?
+3. Name two types of behaviours that a student object might have.
 <br>
- - You can use the event object that is in the event handler by assigning the users input to a variable that you can call or log.
+ - They could be attentive, tardy, early, talker, joker etc.
 
-## The Conditional (Ternary) Operator Explained
+## Java Classes
 <br>
 
-1. Why would we use a ternary operator?
+1. Explain the significance of a constructor for a class.
 <br>
-- It is a shorthand way of writing if/else statements which can actually be more readable and clear as long as we are dealing with "true" and "false" type statments. Or one result, if not that one, than another.
+- A constructor is used to initialize specific objects of the class it belongs to. This can be combined with the concepts of Inheritance as well to further steamline and control Classes.
 
-2. Rewrite the following statement using a ternary statement:
+2. Write the declaration statement for a class named “Student” (do not fill it with fields and methods).
 <br>
-- 'console.log (x===y ? true : false);'
+- My attempt at doing this:
+<br>
+
+- 'public class Student {
+
+    public int age;
+    
+    public Student(int Age) {
+        age = enrollmentAge;
+    }
+
+    public void setAge(int newValue) {
+        age = newValue;
+    }
+}'
+
+## Binary, Decimal and Hexadecimal Numbers
+<br>
+
+1. What is the value of the binary number 1101?
+<br>
+-13 (used a calculator)
+
+
+2. Write the number 52 in binary. Write it in hexidecimal.
+<br>
+- 110100 (used a calculator)
+- 34 (used a calculator)
+
 
 
 <details>
