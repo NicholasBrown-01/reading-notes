@@ -11,7 +11,7 @@
 
 2. What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
 <br>
-- Typically I will take a step back and re-read instrutions to verify I am not trying to make the project more complicated than it needs to be. Go back and re-watch parts of the lecture that discuss the areas in which I am stuck. Reach out to others to see what their interpretation of the assignment was.
+- Typically I will take a step back and re-read instructions to verify I am not trying to make the project more complicated than it needs to be. Go back and re-watch parts of the lecture that discuss the areas in which I am stuck. Reach out to others to see what their interpretation of the assignment was.
 
 <details>
 <summary>Things I want to know more about</summary>
