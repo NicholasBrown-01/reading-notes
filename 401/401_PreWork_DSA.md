@@ -5,20 +5,14 @@
 
 ## Java OO Tutorial (only the Object and Class ones)
 
-1. Explain the difference between an object and a class.
+1. What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 <br>
-- A class in the template that creates the structure of an Object. The Object is the tangible thing inside a class that contains an attribute or property that can contribute to the Class.
+- How manipulating data within your structure will scale.
 
-2. Name two types of state that a Student object might have.
+2. How can we ensure that we’ll avoid an infinite recursive call stack?
 <br>
-- Each Student can have a name, a grade, and age, a sex etc.
-
-3. Name two types of behaviors that a student object might have.
-<br>
- - They could be attentive, tardy, early, talker, joker etc.
-
-## Java Classes
-<br>
+- There needs to be a part in which if the program can't retrieve or create information required that is has 
+a stopping point to return to.
 
 <details>
 <summary>Things I want to know more about</summary>
