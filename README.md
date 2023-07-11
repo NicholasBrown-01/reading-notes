@@ -61,8 +61,9 @@ The following is a table of contents for quickly locating Code Fellows course re
 | --- | --- |
 | [PreWork SQL](401/401_PreWork_SQL.md) | SQL Pre-Work |
 | [PreWork BASH](401/401_PreWork_BASH.md) | BASH Pre-Work |
-| [Reading Notes 01](401/401_Reading_01.md) | Java Basics |
 | [PreWork DSA](401/401_PreWork_DSA.md) | Data Structures and Algorithms |
+| [PreWork Engineering Readings](401/401_PreWork_Engineering.md) | Engineering Readings |
+| [Reading Notes 01](401/401_Reading_01.md) | Java Basics |
 | [Reading Notes 02](401/401_Reading_02.md) | Java Imports, Loops, Arrays |
 | [Reading Notes 03](401/401_Reading_03.md) | Primitives, Objects, Exceptions |
 | [Reading Notes 04](401/401_Reading_04.md) | Java OO, Classes, Binary Numbers |
