@@ -3,52 +3,48 @@
 #### Reading Notes: 09
 <br>
 
-## Functional Programming Concepts
+## High Level HTTP
 <br>
 
-1. What is functional programming?
+1. What are the five steps in the HTTP Request Lifecycle?
 <br>
-- This is "is a programming paradigm a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data".
+- Local Processing
+- Resolve an IP
+- Establish TCP Connection
+- Send an HTTP Request
+- Send and Process Response
 
-2. What is a pure function and how do we know if something is a pure function?
+2. What are the two things the client needs before it can make an HTTP Request?
 <br>
-- This is a function that "returns the same result if given the same arguments (it is also referred as deterministic) and it does not cause any observable side effects."
+- Server Address (URL or IP)
+- Request Method (GET, POST, PUT, DELETE etc)
 
-3. What are the benefits of a pure function?
+3. Explain the four way handshake and what it does.
 <br>
-- They are easier to test, as well as being more "composable" and therefore less error prone.
+- Overall, it is the system in which a secure connection is made and ended via the Transport Layer Security. It is a check on both the client and the server to ensure integrity is maintained between the two.
 
-4. What is immutability?
-<br>
-- This involves the property of an object or data structure. They are those objects with states that cannot changes once instantiated.
 
-5. What is Referential transparency?
-<br>
-- This is a property of a function that will always produce the same result for a given input.
-
-## Videos
+## Java HTTP
 <br>
 
-1. What is a module?
+1. True or False: When making an HTTP request, you MUST follow any redirect returned by the request. Back up your answer.
 <br>
-- It is a self contained unit of code that can be reused in other parts of the program.
+- False. By DEFAULT this behavior is enabled, however, the instance can be manually set to not accept automatic redirects. While this means you will not be able to retrieve data (hence the suggested redirect for your client request from the server) it is not a MUST...as in there is no other options or setting what-so-ever.
 
-2. What does the word ‘require’ do?
+2. Which built-in Java class can be used to perform an HTTP request?
 <br>
-- This indicates a module or package that is mandatory for the program to run correctly.
+ - 'java.net.HttpURLConnection'
 
-3. How do we bring another module into the file the we are working in?
+3. What HTTP status codes represent a successful response? A redirect? A client error?
 <br>
-- You can use an 'import' or include statement such as 'const moduleName = require('module-name');'
-
-4. What do we have to do to make a module available?
-<br>
-- The module must be exported and then called or installed before being imported into another program.
+ - 200
+ - 300
+ - 400
 
 
 <details>
 <summary>Things I want to know more about</summary>
 
 Begin writing here...
-  
+  
 </details>
