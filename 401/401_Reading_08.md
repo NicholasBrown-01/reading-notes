@@ -1,58 +1,36 @@
 [BACK TO MAIN DIRECTORY](../README.md)
 
-#### Reading Notes: 08
+#### Reading Notes: 06
 <br>
 
-## API Design Best Practices
-
-1. What does REST stand for?
+## Rule of Three
 <br>
-- Representational State Transfer
 
-2. REST APIs are designed around a ____.
+1. Are there any projects that you’ve built during your time at Code Fellows (or prior) which could benefit from applying the Rule of Three to DRY up your code?
 <br>
-- Resources!
+- I think with all CF courses the majority of labs do a good job of ensuring you are refactoring into better and better concise and efficient code throughout the week.
 
-3. What is an identifier of a resource? Give an example.
+2. Explain how you would dry up your code if you noticed that you are repeating the same logic in multiple places?
 <br>
-- It identifies the reource that is being interacted with such as 'https://adventure-works.com/orders/1'
+- I think this is where constructors and methods come into play. This allows us to customize the specified variable to those constructors/methods but should updating be needed, we only target those same constructors as opposed to several different loops or individual functions etc.
 
-4. What are the most common HTTP verbs?
-<br>
-- GET, POST, PUT, PATCH, and DELETE.
 
-5. What should the URIs be based on?
+## MVP
 <br>
-- They should be based on the resources being identified and provide an unique way to locate and access them.
 
-6. Give an example of a good URI.
+1. Describe some benefits of releasing an MVP of a product.
 <br>
-- '/customers/5/orders'
+- Having a working proof of concept is huge. It will immediately highlight the areas that need work and allow us to clearly see what the priorities are. Without a doubt it aids in productive troubleshooting and provides the ability to make much more accurate time allocations for certain areas of the product.
 
-7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+2. What are some potential pitfalls of waiting until a product is fully mature to release it.
 <br>
-- It is not a good thing. This term means bigger that neccessary loads are being handles due to poor naming.
+ - Perfectionism, mis-allocation of time and resources into areas of the product that may not have needed much improvement vs areas that needed much more. Lack of motivation when there is no working model. Hard to keep investors etc when no workable progress is being shown.
 
-8. What status code does a successful GET request return?
-<br>
-- 200
-
-9. What status code does an unsuccessful GET request return?
-<br>
-- 404
-
-10. What status code does a successful POST request return?
-<br>
-- 201
-
-11. What status code does a successful DELETE request return?
-<br>
-- 204
 
 
 <details>
 <summary>Things I want to know more about</summary>
 
 Begin writing here...
-  
+  
 </details>

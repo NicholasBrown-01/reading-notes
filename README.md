@@ -68,8 +68,7 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 03](401/401_Reading_03.md) | Primitives, Objects, Exceptions |
 | [Reading Notes 04](401/401_Reading_04.md) | Java OO, Classes, Binary Numbers |
 | [Reading Notes 06](401/401_Reading_06.md) | Java OO, Static, Singleton|
-| [Reading Notes 07](401/401_Reading_07.md) | TBD |
-| [Reading Notes 08](401/401_Reading_08.md) | TBD |
+| [Reading Notes 08](401/401_Reading_08.md) | Rule of 3, MVP |
 | [Reading Notes 09](401/401_Reading_09.md) | TBD |
 | [Reading Notes 10](401/401_Reading_10.md) | TBD |
 | [Reading Notes 11](401/401_Reading_11.md) | TBD |
