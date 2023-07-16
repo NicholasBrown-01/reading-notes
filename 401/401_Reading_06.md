@@ -3,67 +3,44 @@
 #### Reading Notes: 06
 <br>
 
-## An Introduction to Node.js on sitepoint.com
+## Java OO
 <br>
 
-1. What is node.js?
+1. What is the difference between an Object and a Class in Java?
 <br>
-- It is an open source project that can cross platform with JavaScript that let's people make scalable web applications.
+- A class contains an object. The object is the thing that can be manipulated by the class and contains the properties and methods for that variable within the class.
 
-2. In your own words, what is Chrome’s V8 JavaScript Engine?
+2. Explain to a non-technical friend the concept of inheritance in Java.
 <br>
-- It is what allows JavaScript to be run an any computer.
-
-3. What does it mean that node is a JavaScript runtime?
-<br>
-- It allows JavaScript to be run server-side and not just on the client web browser/computer.
-
-4. What is npm?
-<br>
-- That is short for Node Package Manager which is the default package manager for Node.js.
-
-5. What version of node are you running on your machine?
-<br>
-- 19.4.0
-
-6. What version of npm are you running on your machine?
-<br>
-- 9.2.0
-
-7. What command would you type to install a library/package called ‘jshint’?
-<br>
-- 'npm install jshint'
-
-8. What is node used for?
-<br>
-- Web applications
-- Desktop applications
-- Machine learning and AI
-- Command line tools
+- It allows you to quickly customize properties and attributes without having to define what that class is every single time. Such as making a class of animals...all of which have 4 legs and fur. But now you can specify to make things unique.... "Dogs, Cats etc" without having to tell the program that they have 4 legs and tails every single time.
 
 
-## 6 Reasons for Pair Programming
+## Java Static Keyword
 <br>
 
-1. What are the 6 reasons for pair programming?
+1. Static methods are also called what? Why?
 <br>
-- Greater Efficiency
-- Engaged Collaboration
-- Social Skills
-- Job Interview Readiness
-- Work Environment Readiness
+- They are also called class methods because they belong to the Class and not the object itself. This means they are separate from the objects state, they do not need an instance to function, and objects within the class can therefore inherit the static methods behavior.
 
-2. In your experience, which of these reasons have you found most beneficial?
+2. How can you access a variable of a class without instantiating an object from that class?
 <br>
- - Learning from others. Everyone gets their light bulb to come on in different ways when it comes to learning. It is very beneficial to hear material from different points of view in order to better understand the subjec at hand.
+ - As described above, using the static keyword allows for this.
 
-3. How does pair programming work?
+
+## Java Singleton Class
 <br>
-- This is normally divided into two roles: The Driver (One who physcially codes) and The Navigator (One who keeps track of the big pictures and guides the session to accomplish the goal)
+
+1. What is a Design Pattern? Describe one or two with analogies from your previous work experience.
+<br>
+- It seems this is a way to stay organized and ensure that most parts of the class etc are able to communicate as necessary. Almost like a proof the concept and doing a quick run through to ensure all pieces are connected correctly before moving forward. I think an analogy would be ensuring your engine starts and runs normally before trying to add more custom parts to get more performance out of it.
+
+2. What is a Singleton?
+<br>
+ - It is a design pattern that only allows for one instance of a specific class throughout the program but can be accessed globally.
 
 <details>
 <summary>Things I want to know more about</summary>
 
 Begin writing here...
-  
+  
 </details>
