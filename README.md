@@ -70,11 +70,11 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 06](401/401_Reading_06.md) | Java OO, Static, Singleton|
 | [Reading Notes 08](401/401_Reading_08.md) | Rule of 3, MVP |
 | [Reading Notes 09](401/401_Reading_09.md) | High Level HTTP, Java HTTP |
-| [Reading Notes 10](401/401_Reading_10.md) | TBD |
-| [Reading Notes 11](401/401_Reading_11.md) | TBD |
-| [Reading Notes 12](401/401_Reading_12.md) | TBD |
-| [Reading Notes 13](401/401_Reading_13.md) | TBD |
-| [Reading Notes 14](401/401_Reading_14.md) | TBD |
+
+| [Reading Notes 11](401/401_Reading_11.md) | Spring App, Spring MCC   |
+| [Reading Notes 12](401/401_Reading_12.md) | Spring Accessing Data with JPA, Baeldung |
+| [Reading Notes 13](401/401_Reading_13.md) | Related Data Spring, Baeldung Spring Integration |
+| [Reading Notes 14](401/401_Reading_14.md) | Intro to Password Hashing, Bcrypt, jBCrypt |
 | [Reading Notes 15](401/401_Reading_15.md) | TBD |
 
 > Nicholas Brown

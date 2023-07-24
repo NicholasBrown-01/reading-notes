@@ -3,31 +3,36 @@
 #### Reading Notes: 13
 <br>
 
-## CRUD Basics
+## Related data in Springs
 
-1. Which HTTP method would you use to update a record through an API?
+1. Name a few real life examples of “One To Many” relationships.
 <br>
-- Typically use the HTTP PUT or PATCH method
+- Parent to Child
+- Country to Cities
+- Course to Students
 
-2. Which REST methods require an ID parameter?
+2. Given two entities, one named Player and one named Team, if you wanted to create a one to many relationship with those entities which would be the one and which would be the many?
 <br>
-- GET, PUT, or PATCH or DELETE need an ID to reference what is being handles specifically
+- Logically I think it would be One = Team and Many = Players.
 
-## Speed Coding: Building a CRUD API
+3. Explain one to many relationships to a non-technical friend.
+<br>
+- All the "many" player on a football team are on One Team. Within that One Team..there are Many players.
+
+## Baeldung: Spring Integration Testing
 <br>
 
-1. What’s the relationship between REST and CRUD?
+1. Describe the difference between a unit test and an integration test.
 <br>
-- Create-Read-Update-Delete can be used on Data, while Representational State Transfer is the principles that say how it should be implemented. So, a REST API can perform CRUD operations.
+- Unit test for testing individual components in isolation while integration tests ensure multiple modules interact as expected.
 
-2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
+2. What is the object that provides support for Spring MVC Testing?
 <br>
-- Define the data
-- Choose methods
-- Define Structure
-- Create Endpoints
-- Test
+- MockMvc
 
+3. What does the “perform()” method do in a Spring integration test?
+<br>
+- It will call a GET request.
 
 <details>
 <summary>Things I want to know more about</summary>

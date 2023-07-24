@@ -3,34 +3,38 @@
 #### Reading Notes: 14
 <br>
 
-## Consider the history: That Time When Women Stopped Coding
+## Intro to password hashing
 <br>
 
-1. What occurred during the same time as the beginning of the decline of women in computer science?
+1. Define the term “hashing”.
 <br>
-- Once computers commonly became home objects they were correlated more with boys and toys and that stigma was never really conquered.
+- The ability to map data of any size into a bit string of a specified size.
 
-2. Why does it matter that males had been playing on computers growing up?
+2. Explain to a non-technical friend what a hash function does to a password.
 <br>
-- It comes down to image and how it is not likely a battle or confrontation worth fighting if a popular opinion proves too challenging to overcome for what would be "little gain" at the time. Especially when there were other options to pursue.
+- It's like having a secrete language converter or translator with the computer. You type in your password, but the computer does not save it exactly how you typed it. Instead is scrambles it all up in case someone ever gets access they cannot see your actual password.
 
-## Review the data: Employee breakdown of key technology companies
-<br>
-
-#### Ask the question: Why diversity matters to your tech company
+## bcrypt overview
 <br>
 
-1. When are diversity efforts most successful?
+1. What does it mean to ‘salt’ a password?
 <br>
-- When it has the full backing and support from leadership.
+- This adds another layer of complexity as it involves including additional characters to your password to also be hashed. 
 
-2. Why do diverse companies perform better?
+2. What piece of information would a hacker need to access in order to find the ‘salt’ string for your passwords?
 <br>
-- ""Diverse groups of people bring to organizations more and different ways of seeing a problem and, thus, faster/better ways of solving it."
+- They would have to have access to your source code.
 
-3. Give an example of how a diverse company can serve a diverse user base or vise-versa.
+## jBCrypt 
 <br>
-- They are able to undestand several more aspects of diverse needs and values, and thus structure their products or services to represent these groups in meaningful ways that create loyal customers as a result.
+
+1.How does the Blowfish block cipher handle the increased computation speed of new computers?
+<br>
+- The webisite states that the computation cost of the algorithm is parametised so it can be increased as computers get faster.
+
+2. What are the issues with the two most commong password hashes for Java (“Java password hash” and “Java password encryption”)?  
+<br>
+- Lack of good passwork hashes in this case means one uses unsalted hash and the other reverse encryption.
 
 
 <details>

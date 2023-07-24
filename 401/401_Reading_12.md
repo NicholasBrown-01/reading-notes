@@ -3,77 +3,42 @@
 #### Reading Notes: 12
 <br>
 
-## Status Codes Based On REST Methods
+## Spring guide: Accessing Data with JPA
 
-1. In your own words, describe what each group of status code represents:
+1. How are query methods defined when using Spring Data JPA?
 <br>
+- Via naming convetion for the work/repository. You can also utilize method signatures.
 
-100’s = Informative status code
+2. Which dependencies will you need in order to complete the Spring guide?
 <br>
-200’s = A request has been successfully processed
-<br>
-300’s = Additional Action Required
-<br>
-400’s = Bad request was made
-<br>
-500’s = Server error
-<br>
+- H2 Database and Spring Data JPA
 
-2. What is a status code 202?
+3. What annotations are used to specify an auto generated identification number for an Entity?
 <br>
-- Request accepted but not complete
-
-3. What is a status code 308?
-<br>
-- Different URL needed
-
-4. What code would you use if an update didn’t return data to a client?
-<br>
-- 204 No Content
-
-5. What code would you use if a resource used to exist but no longer does?
-<br>
-- 410 Gone
-
-6. What is the ‘Forbidden’ status code?
-<br>
-- 403 Forbidden
+- I believe this is the '@GeneratedValue'.
 
 
-## Build A REST API With Node.js, Express, & MongoDB
+
+## Baeldung: Comparing repositories
 <br>
 
-1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+1. Which of the Spring Data Repositories covered in the readings has the most methods available to it?
 <br>
-- Because we put sensitive information into our .env
+- JPA Repository
 
-2. What is middleware?
+2. Name a downside of a Spring Data Repository.
 <br>
-- Functions that can modify/intercept requests and responses in Express.js.
+- Lack of control due to extending the CrudRepository all at once.
 
-3. What does `app.use(express.json())` do?
+3. How would you define an operation to find a student based on their name in a repo named StudentRepository which extends JpaRepository?
 <br>
-- It is Middleware the parses incoming JSON data and makes it available to the request object.
 
-4. What does the /:id mean in a route?
-<br>
-- It can extract a value from the URL.
+public interface StudentRepository<T, ID extends JpaRepository>
 
-5. What is the difference between `PUT` and `PATCH?`
-<br>
-- They are HTTP methods, PUT replaces an existing resource with a new one. PATCH updates a resource with new data only.
+    List<T> findByName(name);
 
-6. How do you make a default value in a schema?
-<br>
-- Use the `default` property when defining the schema.
+Is about all I could figure out based on the article.
 
-7. What does a `500` error status code mean?
-<br>
-- Server Side Error
-
-8. What is the difference between a status `200` and a status `201`?
-<br>
-- 200 (GET) means a requst was successful, 201 means the request has been created on the server and a resource has been created, such as POST, PUT and PATCH.
 
 <details>
 <summary>Things I want to know more about</summary>
