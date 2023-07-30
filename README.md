@@ -74,7 +74,10 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 12](401/401_Reading_12.md) | Spring Accessing Data with JPA, Baeldung |
 | [Reading Notes 13](401/401_Reading_13.md) | Related Data Spring, Baeldung Spring Integration |
 | [Reading Notes 14](401/401_Reading_14.md) | Intro to Password Hashing, Bcrypt, jBCrypt |
-| [Reading Notes 15](401/401_Reading_15.md) | TBD |
+| [Reading Notes 16](401/401_Reading_16.md) | Spring Security Overview, Spring Authentication |
+| [Reading Notes 17](401/401_Reading_17.md) | O-Auth |
+| [Reading Notes 18](401/401_Reading_18.md) | Many to Many |
+| [Reading Notes 19](401/401_Reading_19.md) | Functional Programming |
 
 > Nicholas Brown
 >> Contact @ [GitHub](https://github.com/NicholasBrown-01)
