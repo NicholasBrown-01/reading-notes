@@ -1,9 +1,9 @@
 [BACK TO MAIN DIRECTORY](../README.md)
 
-#### Reading Notes: 19
+#### Reading Notes: 26
 <br>
 
-## Purely functional programming, from Wikipedia
+## Android Fundamentals
 <br>
 
 
