@@ -78,6 +78,7 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 17](401/401_Reading_17.md) | O-Auth |
 | [Reading Notes 18](401/401_Reading_18.md) | Many to Many |
 | [Reading Notes 19](401/401_Reading_19.md) | Functional Programming |
+| [Reading Notes 26](401/401_Reading_26.md) | Android Fundamentals |
 
 > Nicholas Brown
 >> Contact @ [GitHub](https://github.com/NicholasBrown-01)
