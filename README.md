@@ -81,6 +81,7 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 26](401/401_Reading_26.md) | Android Fundamentals |
 | [Reading Notes 27](401/401_Reading_27.md) | Android Shared Prefs, Tasks, Back Stack |
 | [Reading Notes 28](401/401_Reading_28.md) | RecyclerView |
+| [Reading Notes 29](401/401_Reading_29.md) | Saving Data, Working with Entities |
 
 > Nicholas Brown
 >> Contact @ [GitHub](https://github.com/NicholasBrown-01)
