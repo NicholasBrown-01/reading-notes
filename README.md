@@ -82,10 +82,10 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 27](401/401_Reading_27.md) | Android Shared Prefs, Tasks, Back Stack |
 | [Reading Notes 28](401/401_Reading_28.md) | RecyclerView |
 | [Reading Notes 29](401/401_Reading_29.md) | Saving Data, Working with Entities |
-| [Reading Notes 29](401/401_Reading_31.md) | AWS Amplify |
-| [Reading Notes 29](401/401_Reading_32.md) | Serverless, Amplify, GraphQL |
-| [Reading Notes 29](401/401_Reading_33.md) | One-to-many GraphQL & AWS Amplify |
-| [Reading Notes 29](401/401_Reading_34.md) | Google App Publishing |
+| [Reading Notes 31](401/401_Reading_31.md) | AWS Amplify |
+| [Reading Notes 32](401/401_Reading_32.md) | Serverless, Amplify, GraphQL |
+| [Reading Notes 33](401/401_Reading_33.md) | One-to-many GraphQL & AWS Amplify |
+| [Reading Notes 34](401/401_Reading_34.md) | Google App Publishing |
 
 > Nicholas Brown
 >> Contact @ [GitHub](https://github.com/NicholasBrown-01)
