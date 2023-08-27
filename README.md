@@ -86,6 +86,10 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 32](401/401_Reading_32.md) | Serverless, Amplify, GraphQL |
 | [Reading Notes 33](401/401_Reading_33.md) | One-to-many GraphQL & AWS Amplify |
 | [Reading Notes 34](401/401_Reading_34.md) | Google App Publishing |
+| [Reading Notes 36](401/401_Reading_36.md) | Amplify & Cognito |
+| [Reading Notes 37](401/401_Reading_37.md) | Intro to Amazon S3 & Amplify |
+| [Reading Notes 39](401/401_Reading_39.md) | Location Location |
+| [Reading Notes 41](401/401_Reading_41.md) | Amazon Pinpoint & Polly |
 
 > Nicholas Brown
 >> Contact @ [GitHub](https://github.com/NicholasBrown-01)
