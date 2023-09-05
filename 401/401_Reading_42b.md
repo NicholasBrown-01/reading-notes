@@ -11,12 +11,6 @@
 <br>
 - For this topic I would have to side with the employees. However this stance is based off the assumption that upon being hired by microsoft, the employees were not read in to any programs or clauses that Microsoft states something to the effect that Microsoft does actively work with DoD programs/funding/directives to develop and implements weapons/items of war. Assuming that to be true, then Microsoft should at a minimum create a separate branch or department specifically for this purpose, and then recruite, whether externally or internally to fill that department with employees that are fully aware of how their work products are being distributed and handled. 
 
-2. What are some analytics you think would be important to track in an application?
-<br>
-- User Engagement such as amount and their active use time
-- User Behaviour such as what they visit and engage with
-- Feature usage...what content features they are utilizing
-
 
 ## Morality, ethics of a self-driving car: Who decides who lives, dies?
 <br>
