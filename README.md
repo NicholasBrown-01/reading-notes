@@ -90,6 +90,8 @@ The following is a table of contents for quickly locating Code Fellows course re
 | [Reading Notes 37](401/401_Reading_37.md) | Intro to Amazon S3 & Amplify |
 | [Reading Notes 39](401/401_Reading_39.md) | Location Location |
 | [Reading Notes 41](401/401_Reading_41.md) | Amazon Pinpoint & Polly |
+| [Reading Notes 42a](401/401_Reading_42a.md) | Google Admob & Google Monetization |
+| [Reading Notes 42b](401/401_Reading_42b.md) | Ethics in Tech |
 
 > Nicholas Brown
 >> Contact @ [GitHub](https://github.com/NicholasBrown-01)
